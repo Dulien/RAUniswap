@@ -1,0 +1,577 @@
+AuthorID,Author,Date,Content,Attachments,Reactions
+"589621262733672461","haydenadams#3292","01-Feb-20 10:46 PM","ANNOUNCEMENT: There is now an announcements channel","",""
+"589621262733672461","haydenadams#3292","01-Feb-20 10:49 PM","Rules: only Uniswap team members can post here, everyone else can only read posts and add reactions","","🎉 (29),💩 (11),🇨 (18),🇴 (18),🅾️ (19),🇱 (17),😱 (9),🚀 (15),🦄 (14),👍🏼 (10)"
+"589621262733672461","haydenadams#3292","10-Mar-20 01:22 PM","Uniswap data on CMC!!!
+
+https://twitter.com/UniswapExchange/status/1237424559134998528","","😍 (17),🚀 (13),Uni (6)"
+"589621262733672461","haydenadams#3292","23-Mar-20 04:28 PM","🦄  We're incredibly excited to announce the full details of Uniswap V2!!!
+
+ @everyone 
+
+https://twitter.com/UniswapExchange/status/1242183677590810626","","💯 (35),🦄 (37),🥳 (25),👍 (24),👆🏻 (16),🙌 (17),🎉 (14),🚀 (12),👏🏼 (14),❤️ (12)"
+"589621262733672461","haydenadams#3292","23-Mar-20 04:29 PM","Read our announcement blogpost:
+
+https://uniswap.org/blog/uniswap-v2/
+
+And checkout the updated protocol site
+
+https://uniswap.org/","","🔥 (37),🦄 (27),🦠 (16),🚀 (19),😁 (5)"
+"589621262733672461","haydenadams#3292","15-Apr-20 01:51 PM","Uniswap V1 has never been broken. Can you break Uniswap V2?
+
+Announcing the Uniswap V2 Bug Bounty Program
+
+https://uniswap.org/bug-bounty/","","🚀 (10),👍 (7)"
+"589621262733672461","haydenadams#3292","05-May-20 05:19 PM","The Uniswap V2 audit and formal verification is finished!
+
+https://uniswap.org/audit.html","","🤯 (7),💯 (5),🥳 (7),RunningUnicorn (6),🚀 (5)"
+"589621262733672461","haydenadams#3292","06-May-20 07:27 PM","Hi everyone, we would love user feedback on our updated (and in progress) Uniswap V2 interface! If you're interested, please visit https://v2.uniswap.exchange/ and connect your wallet to the Rinkeby testnet. It will also work with all other testnets, but they do not all have pools with liquidity in the default list 🙂 
+
+The site includes a link to a feedback form or just put your thoughts in #📝feedback 🙂","","👍 (5)"
+"589621262733672461","haydenadams#3292","06-May-20 07:28 PM","For more information on v2 please read the announcement blog
+
+https://uniswap.org/blog/uniswap-v2/","","🚀 (11),😀 (6)"
+"589621262733672461","haydenadams#3292","18-May-20 01:38 PM","Uniswap V2 has launched on the Ethereum mainnet!!!
+
+Read the launch blogpost here: 
+https://uniswap.org/blog/launch-uniswap-v2/
+
+Or the tweet storm here:
+https://twitter.com/UniswapProtocol/status/1262435668539715587","","🔥 (27),👏 (17),👍 (12),🇺 (9),🇳 (8),🇮 (8),🇸 (9),🇼 (9),🇦 (9),🇵 (9),🚀 (9)"
+"182969707299733504","Noah Zinsmeister#4144","05-Jun-20 06:56 PM","fee-on-transfer tokens should now be supported in the UI!
+
+note that when swapping FoT tokens, it's required that you specify only an exact _input_, not _output_. additionally, please ensure that you set a slippage tolerance high enough to compensate for whatever fee the token extracts. for example, if a token takes a 1% fee on transfer, ensure your slippage is ~1.5% or so.","","👍 (8)"
+"274208745699934220","callil#5116","12-Jun-20 06:20 PM","We’ve slightly adjusted how settings work on the web app. You’ll now notice a gear for the settings in the top nav. Clicking this will open the new settings pane. We’ve moved the slippage, deadline and a few other things here to declutter the main UI. 
+
+You’ll also find an expert mode for people who want the classic v1 swap behavior without a confirm screen. Please use with caution.
+
+Let us know in #📝feedback what you think and feel free to request features for future versions!
+
+-c","",""
+"589621262733672461","haydenadams#3292","13-Jun-20 09:55 PM","We've been receiving reports of scammers impersonating team members and opening up DMs with people in our discord. 
+
+No one from our team will ever open up a new dm with you to answer a support question","",""
+"274208745699934220","callil#5116","19-Jun-20 10:56 AM","Reminder always Be Careful:
+
+⚠️ Be suspicious of anyone who reaches out to you in private
+⚠️ Never share your private keys or passwords with ANYONE (even if they claim to be from the Uniswap Team)
+⚠️ Do not click on any links or download any files sent to you in a private message
+⚠️ Never send funds to anyone you don't know
+
+**Uniswap members will NEVER DM you first and NEVER ask for your information or send you links to ""fix"" your account.**","",""
+"274208745699934220","callil#5116","19-Jun-20 10:57 AM","In other news there is now an #📌faq-old channel that addresses some of the most commonly asked questions! If you think anything should be added there let us know in  #📝feedback  🙂","",""
+"589621262733672461","haydenadams#3292","30-Jun-20 01:40 PM","Check out our recent efforts to decentralize the Uniswap interface! More to come :)
+
+https://uniswap.org/blog/ipfs-uniswap-interface/","","👍 (29),👀 (15),🚀 (15),🎉 (12),🎊 (10),🥳 (10),💯 (16),🆗 (3)"
+"383836935480803339","moody 🦄#6640","02-Jul-20 12:00 PM","Pinned a message.","",""
+"383836935480803339","moody 🦄#6640","08-Aug-20 12:25 PM","@everyone We are seeing a huge number of phishing sites pretending to be Uniswap. The *only* legit Uniswap interface is https://app.uniswap.org
+We do not run any google ads. If you see a Google ad for Uniswap, it is a scam, do not click it, and please also report it. __Even if the Google ad says app.uniswap.org, it is not from us, and could be a phishing site__. Never enter your seed phrase or private key in any website, and never execute a swap on Uniswap from any URL other than https://app.uniswap.org
+TLDR: If it looks like Uniswap, but is not at app.uniswap.org, it's a scam!","","👍 (56),💯 (22),❤️ (19)"
+"383836935480803339","moody 🦄#6640","08-Aug-20 12:29 PM","Reporting a fake Uniswap Google Ad:
+Click ""Why this ad?""
+Click ""Report this ad""
+Select ""An ad violates other Google Ads policies""
+Select ""Search Ad""
+Select ""Cyber Frauds""
+Select ""Phishing""
+Under additional details, enter ""Fake Uniswap Interface""
+Hit Submit
+
+Reporting a fake Uniswap site to Google:
+Go to https://safebrowsing.google.com/safebrowsing/report_phish/
+Enter the URL here
+Enter ""This site is imitating app.uniswap.org to steal user funds"" in the additional details
+Hit Submit Report","https://cdn.discordapp.com/attachments/673373498290470932/741694460613886063/unknown.png","👍 (64),🍉 (16),RunningUnicorn (13)"
+"274208745699934220","callil#5116","26-Aug-20 04:02 PM","We are excited to announce Token Lists, a new standard for creating lists of ERC20 tokens. This is a community initiative to improve discoverability and trust in ERC20 token lists in a manner that is inclusive, transparent, and decentralized.
+
+Read more at the blog post: https://uniswap.org/blog/token-lists/
+Or browse lists at https://tokenlists.org","","👍 (38),📝 (14),🎉 (19),💩 (8)"
+"274208745699934220","callil#5116","16-Sep-20 08:28 PM","Hi everyone - you may have seen by now but we just launched UNI! 
+https://uniswap.org/blog/uni","","👀 (32),🥳 (43),😀 (27),👍 (25),🦄 (35),😢 (13),🤩 (12),😭 (8),😰 (9),🤬 (8),😡 (8),💯 (9),💩 (10),⤵️ (8),😫 (7),🤮 (6),😈 (7),👹 (8)"
+"274208745699934220","callil#5116","16-Sep-20 08:33 PM","I made a fun token logo for the launch and the main site https://app.uniswap.org/#/swap should be updated very very soon and you'll be able to CLAIM UNI!","https://cdn.discordapp.com/attachments/673373498290470932/755949427256197220/twitter.png","👀 (53),💯 (53),👍 (48),🤿 (12),Hayden (12),👺 (9),🎃 (9),🤖 (9),💄 (9),👯‍♀️ (10),⤵️ (9),🤮 (12),🇺🇦 (9),😌 (6),Robert (2)"
+"274208745699934220","callil#5116","16-Sep-20 08:35 PM","Some info and a special note for this community:
+
+**Uniswap owes its success to the thousands of community members that have joined its journey over the past two years. These early community members will naturally serve as responsible stewards of Uniswap.
+
+15% of UNI [150,000,000 UNI] can immediately be claimed by historical liquidity providers, users, and SOCKS redeemers/holders based on a snapshot endingSeptember 1, 2020, at 12:00 am UTC.
+**","","RunningUnicorn (306),🥰 (213),❤️ (225),🚀 (155),🔥 (112),🎉 (106),😄 (85),💯 (93),☀️ (77),👍 (102),🍻 (68),🐉 (60),🇨🇳 (68),🤩 (70),💩 (51),👀 (61),🦄 (122),😭 (77),😫 (65),😍 (86)"
+"274208745699934220","callil#5116","16-Dec-20 03:16 PM","@everyone Hey all, we soft launched a tool for Ethereum governance yesterday for people to publicly announce and find delegates starting with Uniswap and Compound. If you've ever wanted to discover delegates or make yourself known as a delegate this tool is for you!
+
+Read more about it on the blog: https://uniswap.org/blog/sybil/
+
+Or try it out here: https://sybil.org/#/delegates/uniswap","https://cdn.discordapp.com/attachments/673373498290470932/788862095063121970/banner.png","RunningUnicorn (83),👺 (31),😎 (54),🥳 (40),Hayden (31),SavageHayden (33),Uni (50),🤪 (32),🥸 (31),Unisocks (29),🤌 (26),👁️ (31),eyooo (27),💯 (29),🇨 (27),🇴 (26),🅾️ (24),🇱 (25),👍 (36),❓ (21)"
+"589621262733672461","haydenadams#3292","31-Dec-20 12:11 PM","Happy new years everyone, we're so grateful to our community!!!
+
+We wrote up a blogpost reviewing the past year and our plans for 2021!
+
+https://uniswap.org/blog/year-in-review/","","👏 (65),Uni (48),🚀 (39),😎 (21),🏅 (24),✅ (16),💯 (15),😃 (14),🍻 (10),🐧 (11),💜 (10),👀 (9),😆 (8),👍 (13)"
+"274208745699934220","callil#5116","17-Jan-21 10:39 AM","Hello friends, a reminder that the community run **Uniswap Grants Program** is now live! It was voted into effect at the end of last year and the applications are now OPEN! Deadlines are February 28th (Wave 1) and May 31st (Wave 2). There is a lot to read and understand but this is the high level overview...
+
+If you've EVER built something around the Uniswap ecosystem and would like to continue this work check out this program.
+
+```Our mission is to continue cultivating this enthusiasm and talent, so to start, UGP seeks to support focused areas accomplishing the following:
+
+- **Usability** - improving the user experience
+- **Community** - growing the ecosystem
+- **Tooling** - improving the developer experience
+
+Support is available for both individuals and teams attempting to provide innovative solutions, tackling problems, or contributing to existing tools for the three focused areas above.```
+
+https://pbs.twimg.com/card_img/1350235114731659264/kViTtD0c?format=jpg&name=medium
+
+Initial forum discussion: https://gov.uniswap.org/t/rfc-uniswap-grants-program-v0-1/9081/32
+Application form: https://docs.google.com/forms/d/e/1FAIpQLSd6TdE0mPtLjTU3KRkFqUPM1o--yaT8tpozxk-_jnVL6sPdGA/viewform
+Info site: https://www.notion.so/Welcome-to-UNI-Grants-6e3e84967a984a5fb127ae749649ddc9","","Uni (36),🧐 (12),👍 (20),👏 (8),🙏 (9)"
+"274208745699934220","callil#5116","16-Mar-21 02:49 PM","The first round of UNI grants was just announced!
+
+```Without further ado, we are extremely pleased to announce that the UNI Grants Program will be awarding the full budget of $750,000 in grants to 23 teams across the UNI community! These grantees represent various parts of the protocol from support team within the UNI Discord sever to a ragequit mechanism for governance-funded multisigs.```
+
+Blog Post: https://www.notion.so/UGP-Q1-Updates-a24ad2d072184120a06ce3ad330385eb
+Twitter Thread: https://twitter.com/uniswapgrants/status/1371893183454580738","","🎉 (20),🙌 (14),👍 (16),🤬 (7),🥂 (8),🖕 (5),🐟 (3)"
+"274208745699934220","callil#5116","23-Mar-21 01:14 PM","Friends... the day has arrived. We're announcing the details of Uniswap V3:
+
+Check out the blog post: https://uniswap.org/blog/uniswap-v3/
+Read the twitter thread: https://twitter.com/Uniswap/status/1374407380520239109
+Read the post by TheBlock: https://www.theblockcrypto.com/post/99100/uniswap-v3-capital-efficiency-details-dex-ethereum
+
+❤️","https://cdn.discordapp.com/attachments/673373498290470932/823967960821268570/banner.png","Uni (252),🙀 (84),😍 (108),🔥 (78),🥳 (58),💯 (57),Vitalik (44),Unisocks (36),🦑 (33),RunningUnicorn (46),👀 (29),🎉 (33),🧑‍🌾 (24),🦄 (47),🥒 (23),📈 (29),😂 (22),Ping (24),🧐 (21),😆 (18)"
+"589621262733672461","haydenadams#3292","23-Mar-21 01:30 PM","@everyone","","😍 (431),🦄 (383),💯 (194),🚀 (216),👍 (145),👀 (135),SavageHayden (104),Uni (149),🍻 (106),💩 (82),Vitalik (96),Unisocks (90),😂 (86),😆 (88),🌈 (98),RunningUnicorn (96),Hayden (95),❤️ (98),☺️ (83),sbf (78)"
+"274208745699934220","callil#5116","24-Mar-21 02:02 PM","A reminder: 
+
+⛔ Uniswap will NEVER DM you first and NEVER ask for your information or send you links to ""fix"" your account. 
+⚠️ Be suspicious of anyone who reaches out to you in private 
+⚠️ Never share your private keys or passwords with ANYONE (even if they claim to be from the Uniswap Team) 
+⚠️ Do not click on any links or download any files sent to you in a private message 
+⚠️ Never send funds to anyone you don't know","","☠️ (8),👍 (14)"
+"274208745699934220","callil#5116","25-Mar-21 10:48 AM","We're putting the V3 video on foundation for a good cause! Also peep this video @pplpleasr made about the making of 🙂
+https://twitter.com/pplpleasr1/status/1375086532827115526?s=20","","👍 (16),💕 (11),Uni (14),Kain (5),😍 (5),🇵 (3),🇪 (3),🇳 (3),🇮 (3),🇸 (3)"
+"274208745699934220","callil#5116","26-Mar-21 01:08 PM","Hi all! Hop into the #deleted-channel channel and ask questions! AMA starting in 1hr!
+
+https://twitter.com/Uniswap/status/1375489185772093447","","💯 (5)"
+"274208745699934220","callil#5116","02-Apr-21 12:07 PM","Premier of the latest Bankless episode with @haydenadams is live right now: https://www.youtube.com/watch?v=uQS7WuQtXWs","","Hayden (38),👍 (33)"
+"274208745699934220","callil#5116","01-May-21 03:53 PM","REMINDER: There is no UNI airdrop or ongoing event. SCAM beware. 
+
+
+⛔ Uniswap staff would never DM you first and never ask for your information or send you links to ""fix"" your account. 
+👷‍♀️ No ""moderator"" or ""customer support"" will ever ask you for your seed!
+
+⚠️ Be suspicious of anyone who reaches out to you in private 
+🤳 Never trust dodgy direct messages.
+
+⚠️ Never share your private keys or passwords with ANYONE (even if they claim to be from the Uniswap Team) 
+🔐 Never give/type out your seed (or share the encrypted .JSON)
+
+⚠️ Do not click on any links or download any files sent to you in a private message 
+📩 Turn off direct messages to disable the ability of the spammers to contact you directly.
+
+**💰There is no airdrop, giveaway nor promotion.**","https://cdn.discordapp.com/attachments/673373498290470932/838141110810574848/unknown.png","👌 (20),👍🏻 (16)"
+"274208745699934220","callil#5116","05-May-21 04:10 PM","Uniswap V3 is LIVE on mainnet 🙂 
+
+Tweet thread: https://twitter.com/Uniswap/status/1390012757970411520
+Blog: https://uniswap.org/blog/launch-uniswap-v3/
+V3 Liquidity provider guide: https://docs.uniswap.org/concepts/introduction/liquidity-user-guide
+
+Each position now comes with a NFT!","https://cdn.discordapp.com/attachments/673373498290470932/839594908716105758/NFT1_1.52.39_PM.mp4","Uni (53),😊 (19),👌 (27),💯 (20),👍 (26),Unisocks (13),🆗 (7),💜 (13),💩 (4)"
+"730463593711140956","BOR4#8524","18-May-21 02:54 AM","Uniswap Community Call #1
+
+We invite everyone to join us in the first Uniswap Community call. For the v3 launch day we had a launch day party here in Discord during which a community call also took place. It was decided to continue doing community calls on bi-weekly basis.
+
+☎️ **Uniswap Community Call #1 is scheduled for Wednesday May 19th 14:00 EST (20:00 CEST) ** ☎️ 
+
+We invite everyone interested in discussing some :Uni: related topics to join in!
+For the community call a dedicated voice chat will be created titled **uniswap-com-call**!
+
+Here is Event Reminder: https://greenwichmeantime.com/time-gadgets/event-time/share/?name=Uniswap%2520Community%2520Call%2520%25231&stamp=1621447200&theme=conference","","Uni (15),👍 (9),🐧 (7)"
+"336243088500588545","jab#9351","20-May-21 04:08 PM","There's been several reports of a scam email going out, this is not from uniswap, please do not click links in the email (or any other email that looks suspicious). There's nothing the uniswap team can do about this scam, so feel free to delete the email. It's been reported that they got your email as a result of Ledger's commerce and marketing database breach. You can read more about the breach here: https://www.ledger.com/addressing-the-july-2020-e-commerce-and-marketing-data-breach","https://cdn.discordapp.com/attachments/673373498290470932/845030228061716490/image0.png","☝️ (10),🥸 (9),👍 (8)"
+"336243088500588545","jab#9351","26-May-21 05:10 PM","https://twitter.com/MetaMask/status/1397659854446022656","","☝️ (10),🗒️ (4),ℹ️ (4),🥲 (4)"
+"730463593711140956","BOR4#8524","01-Jun-21 12:35 PM",":Uni: Uniswap Community Call #2 :Uni: 
+**Wednesday (June 2nd) at 14:00 EST**
+agenda:
+----------------------------------------------------
+🪙  UNI stablecoin
+📈  Range orders
+🦄  Creation of Uniswap Governance Cohorts and Participation mining. 
+🚩  Fee switch
+:Unisocks:  Unisocks
+🎫  POAPs
+:Uni:  How to claim 400 UNI/ UNI airdrop
+----------------------------------------------------
++ much more
+
+Everyone is invited!","","Uni (70),⛵ (10)"
+"730463593711140956","BOR4#8524","08-Jun-21 12:38 PM",":Uni: Uniswap Community Call #3 :Uni: 
+**Wednesday (June 16th) at 14:00 EST**
+📜  Leave agenda suggestion via this form: https://forms.gle/BxaAumVoxUKYm2Lg6","","Uni (10)"
+"730463593711140956","BOR4#8524","15-Jun-21 02:03 PM",":Uni: Uniswap Community Call #3 :Uni: 
+Wednesday (June 16th) at 14:00 EST
+agenda:
+----------------------------------------------------
+💰  Miner fees and what can be done to lower them?
+🏦  Diversifying governance treasury into ETH and stable coins
+🦄  Tools for price range reallocation 
+🚩  Fee switch on single pair for testing
+Ⓜ️  Polygon integration
+:Uni:  UNI as an oracle token
+----------------------------------------------------
++ much more
+
+Everyone is invited!","","Uni (24),👀 (8)"
+"274208745699934220","callil#5116","21-Jun-21 09:24 PM","Check out the new identity for the UGP program! https://twitter.com/uniswapgrants/status/1407075171505221640?s=21","","Uni (14),🤌 (9)"
+"730463593711140956","BOR4#8524","29-Jun-21 05:15 PM",":Uni: Uniswap Community Call #4 :Uni: 
+Wednesday (June 30th) at 16:00 EST
+agenda:
+----------------------------------------------------
+🤖  Charm Finance and Popsicle Finance automatic LP rebalancing 
+🏦  Update on development of oneUNI stablecoin
+⛽  Uniswap Grant Program next steps
+🦄  Future development of Uniswap protocol
+----------------------------------------------------
++ much more
+
+Everyone is invited!","","Uni (24),V3 (11),Hayden (10),👍 (11),👀 (10),🥳 (11),🍦 (10),🧊 (11),🇮 (11),🇨 (10),🇪 (12)"
+"730463593711140956","BOR4#8524","02-Jul-21 12:56 PM","UNI Grants Program Summit is live!
+Join us for some sweet sweet talks by UGP grantees:
+https://twitter.com/ETHGlobal/status/1410824934876749827","","🔥 (17),Uni (11),🤑 (6)"
+"399617942087532545","Connor Martin#6086","13-Jul-21 03:41 PM","Announcing Uniswap V3 on Optimism https://optimismpbc.medium.com/announcing-uniswap-v3-on-optimism-6fb033398a11","","SavageHayden (9),🥛 (6),🍪 (7),🥧 (5),Uni (7)"
+"730463593711140956","BOR4#8524","13-Jul-21 05:40 PM",":Uni: Uniswap Community Call #5 :Uni: 
+Wednesday (July 14th) at 16:00 EST
+agenda:
+----------------------------------------------------
+📖  Defi education fund
+🦄  L2 deployments of Uniswap
+👓  Visor finance
+📈  The Graph
+----------------------------------------------------
++ much more
+
+Everyone is invited!","","Uni (31),V3 (9)"
+"589621262733672461","haydenadams#3292","15-Jul-21 05:37 PM","Uniswap Product Update #1
+
+https://uniswap.org/blog/product-update-1/","","Uni (15),👍 (8),🥳 (11)"
+"274208745699934220","callil#5116","15-Jul-21 06:08 PM","","https://cdn.discordapp.com/attachments/673373498290470932/865354231725031444/banner.png",""
+"730463593711140956","BOR4#8524","28-Jul-21 05:45 AM",":Uni: Uniswap Community Call #6 :Uni: 
+Wednesday (July 28th) at 16:00 EST
+agenda:
+----------------------------------------------------
+🚀 Qilin protocol
+🚀 Lixir finance
+🚀  Unipilot
+📜  Grant Program Construct Proposal (https://gov.uniswap.org/t/temperature-check-larger-grant-program-construct-community-enabled-analytics-no-negative-net-uni/13044)
+🧑‍⚖️ Uniswap + regulations
+----------------------------------------------------
++ much more
+
+Everyone is invited!","","✌️ (27),👀 (8),Uni (11)"
+"730463593711140956","BOR4#8524","10-Aug-21 03:48 AM",":Uni: Uniswap Community Call #7 :Uni: 
+Wednesday (August 11th) at 16:00 EST
+agenda:
+----------------------------------------------------
+🚀 Multiple Finance
+🧦 governance powered $SOCKS
+🦄 state of the community & new projects for UNI
+----------------------------------------------------
++ much more
+
+Everyone is invited!","","👍 (23),👀 (10),🎉 (10),🦄 (8)"
+"730463593711140956","BOR4#8524","17-Aug-21 03:32 PM","Hi all! Flipside Crypto’s Uniswap proposal to leverage a $25 million grant to generate 30% yield and fund Uniswap Community-Enabled Analytics is now live!
+
+The most important things to know about the proposal are:
+
+    .    It will be guided first and foremost by a “No Negative Net UNI” ethos, whereby the full initial grant amount is maintained
+    .    The generated yield will be transformed into bounties directing analysts to produce insights and interactive solutions for the Uniswap community. That includes offerings like the Uniswap V3 Fee Calculator, a result of  initial UGP pilot - uniswapv3.flipsidecrypto.com
+    .    The grant structure includes both Allocation and Oversight Committees to provide checks and balances throughout this process. Oversight Committee members are Nic Carter, Dave Balter and Boris Stanic. There will also be an Allocation Committee, which includes Will Price and Nathan Howard, as well as two members from University Blockchain Groups [announced after the vote to not steer outcomes!]
+
+You can find more info and vote below. You can discuss the proposal in the #❌up6-community-enabled-analytics . Make sure you cast your vote to make sure your voice is heard and help Flipside Crypto assist Uniswap governance at this major moment!
+
+https://app.uniswap.org/#/vote/1/2","","Uni (31),🧐 (12)"
+"730463593711140956","BOR4#8524","23-Aug-21 08:43 AM",":Uni: Uniswap Community Call #8 :Uni: 
+Wednesday (August 25th) at 16:00 EST
+agenda:
+----------------------------------------------------
+🚀 YIN Finance
+🚀 Polywrap - a next-gen SDK for Uniswap
+🚀 launch of oneUNI stablecoin
+🚰  L2 Liquidity mining
+🦄 Uniswap governance - how can we make it better?
+----------------------------------------------------
++ much more
+
+Everyone is invited!","","Uni (39),❤️ (17)"
+"399617942087532545","Connor Martin#6086","31-Aug-21 01:35 PM","☕ Uniswap Labs Developer Office Hours #1  ☕ 
+Friday (September 3rd) at 13:00 EST
+agenda:
+----------------------------------------------------
+Open question format!
+
+This is an open office hours where developers in the community can ask any technical questions on their mind, and developers at Uniswap labs will be available to answer live. 
+
+The forum will be in a live chat in the #uniswap-developers channel group.
+ 
+Come hang out on Friday! anyone is welcome to listen, learn, and ask questions. No requirements to participate, all we ask is that all those attending be respectful of everyones time - so that all questions can be answered.
+----------------------------------------------------","","👍 (17),Uni (14),✅ (7)"
+"730463593711140956","BOR4#8524","08-Sep-21 09:43 AM",":Uni: Uniswap Community Call #9 :Uni: 
+Wednesday (September 8th) at 16:00 EST
+agenda:
+----------------------------------------------------
+🚀  OpenLeverage
+:Uni:  Community Analytics Proposal for Uniswap
+----------------------------------------------------
++ much more
+
+Everyone is invited!","","👍 (26),Vitalik (4)"
+"399617942087532545","Connor Martin#6086","10-Sep-21 08:54 AM","☕ Uniswap Labs Developer Office Hours #2  ☕ 
+Friday (September 10th) at 13:00 EST
+agenda:
+----------------------------------------------------
+Open question format!
+
+This is an open office hours where developers in the community can ask any technical questions on their mind, and developers at Uniswap labs will be available to answer live. 
+
+The forum will be in a live chat in the #uniswap-developers channel group.
+ 
+Come hang out on Friday! anyone is welcome to listen, learn, and ask questions. No requirements to participate, all we ask is that all those attending be respectful of everyones time - so that all questions can be answered.
+----------------------------------------------------","","Uni (23)"
+"798410203745484801","Will 🦄#6821","16-Sep-21 02:53 PM","The Auto Router is now live! I'd love to hear your feedback in the #📝feedback channel. Let us know if you're having any issues. https://twitter.com/Uniswap/status/1438571974553374725","","Uni (24),🔥 (14)"
+"730463593711140956","BOR4#8524","21-Sep-21 07:29 AM",":Uni: Uniswap Community Call #10 :Uni: 
+Wednesday (September 22th) at 16:00 EST
+agenda:
+----------------------------------------------------
+:Uni:  Community Analytics Proposal for Uniswap
+:Uni:  1 Basis Point Fee Pools in v3
+:Uni:  L2 Liquidity Mining Program
+----------------------------------------------------
++ much more
+
+Everyone is invited!","","Uni (21)"
+"399617942087532545","Connor Martin#6086","23-Sep-21 03:02 PM","☕ Uniswap Labs Developer Office Hours #3  ☕ 
+Friday (September 24th) at 13:00 EST
+agenda:
+----------------------------------------------------
+Open question format!
+
+This is an open office hours where developers in the community can ask any technical questions on their mind, and developers at Uniswap labs will be available to answer live. 
+
+The forum will be in a live chat in the #uniswap-developers channel group.
+ 
+Come hang out on Friday! anyone is welcome to listen, learn, and ask questions. No requirements to participate, all we ask is that all those attending be respectful of everyones time - so that all questions can be answered.
+----------------------------------------------------","","😩 (14),😁 (10)"
+"399617942087532545","Connor Martin#6086","30-Sep-21 10:43 AM","☕ --- Uniswap Labs Developer Office Hours #4 ---☕ 
+
+Thursday (TODAY) at 1PM EST on Discord
+
+Add it to your calendar to keep track of this and future events!
+
+https://calendar.google.com/event?action=TEMPLATE&tmeid=bTl2aGVkbDFmZDRwY2JoOWxrdGdpanFjcWhfMjAyMTA5MzBUMTcwMDAwWiBjX2xhcmY5aGE5NnZoN3FmajA5b2prbmg3MHNjQGc&tmsrc=c_larf9ha96vh7qfj09ojknh70sc%40group.calendar.google.com&scp=ALL","",""
+"730463593711140956","BOR4#8524","05-Oct-21 09:08 AM",":Uni: Uniswap Community Call #11 :Uni: 
+Wednesday (October 6th) at 16:00 EST
+agenda:
+----------------------------------------------------
+:Uni:  Bella Uniswap v3 simulator
+:Uni:  Permissionless sponsorship proposal
+----------------------------------------------------
++ much more
+
+Everyone is invited!","","😆 (36),💋 (9)"
+"730463593711140956","BOR4#8524","20-Oct-21 08:59 AM",":Uni: Uniswap Community Call #12 :Uni: 
+Wednesday (October 20th) at 16:00 EST
+agenda:
+----------------------------------------------------
+:Uni:  BED INDEX proposal (https://docs.google.com/document/d/1XPq6O567mcHLfB7kWLO2gnUsXvrDn2xq8ZsCt1fme2s/edit?usp=sharing)
+:Uni:  Ethelo platform (https://ethelo.com/)
+:Uni:  DEF snapshot proposal (https://snapshot.org/#/uniswap/proposal/QmRKyYeGRFAhBnsqRXHVVwpmmVWxWdybUTVqLM7c52EonT)
+----------------------------------------------------
++ much more
+
+Everyone is invited!","","Uni (21),🚀 (4),✅ (4),❤️ (5)"
+"399617942087532545","Connor Martin#6086","27-Oct-21 08:15 AM","Hack the future of the Uniswap Protocol at **UniCode**. Expand the Uni-verse. Win prizes. Applications close **today**! https://unicode.ethglobal.com/","","🤓 (23),👍 (16),📝 (6),🥳 (5),❤️ (5),🚀 (4),🎉 (4),Uni (5),V3 (4),Unisocks (4),Hayden (4),Vitalik (4),Robert (4)"
+"730463593711140956","BOR4#8524","03-Nov-21 10:10 AM",":Uni: Uniswap Community Call #13 :Uni: 
+Wednesday (November 3rd) at 16:00 EST
+agenda:
+----------------------------------------------------
+:Uni:  Uniswap Governance token list
+:Uni: 1 Basis Point Fee Tier proposal
+----------------------------------------------------
++ much more
+
+Everyone is invited!","","💯 (26),RunningUnicorn (14),Uni (16)"
+"274208745699934220","callil#5116","10-Nov-21 10:21 AM","FYI - TODAY!!!, at 1pm ET (in 2h 40m), the Uniswap Labs design team will walk through the creative process and the various inspirations that contributed to the protocol brand proposal work. The presentation will then be followed by an open feedback session. 
+
+Come get a vision into the process, understand the inspiration and the road we went down to get to this point. 
+
+As a preview: we'll be walking though this deck and answering questions: https://drive.google.com/file/d/1f4DeMmLRiRqM4mw2GAwL6j7XsQ_2_0_g/view
+
+We'll open the voice chat channel for presentation, and a text chat channel for realtime discussion 5 min before we start 🙂","https://cdn.discordapp.com/attachments/673373498290470932/908013416474628126/Screen_Shot_2021-11-10_at_10.21.01_AM.png","🦄 (16),🤠 (11),🔥 (7),👍 (6),🥛 (4)"
+"336243088500588545","jab#9351","10-Nov-21 10:52 AM","10-Nov-21 01:00 PM","",""
+"730463593711140956","BOR4#8524","17-Nov-21 10:05 AM",":Uni: Uniswap Community Call #14 :Uni: 
+Wednesday (November 17th) at 16:00 EST
+agenda:
+----------------------------------------------------
+:Uni:  Izumi Finance
+:Uni: Liquidity mining on Optimism and Arbitrum proposal
+----------------------------------------------------
++ much more
+
+Everyone is invited!","","Uni (22),❤️ (15)"
+"336243088500588545","jab#9351","17-Nov-21 12:29 PM","https://discord.gg/xZbRkhjW?event=910582403481894922","",""
+"730463593711140956","BOR4#8524","01-Dec-21 01:25 PM",":Uni: Uniswap Community Call #15 :Uni: 
+Wednesday (December 1st) at 16:00 EST
+agenda:
+----------------------------------------------------
+:Uni:  Governance process - can it be improved?
+:Uni:  Uniswap Polygon deployment proposal
+----------------------------------------------------
++ much more
+
+Everyone is invited!","","😍 (7),❤️‍🔥 (4)"
+"730463593711140956","BOR4#8524","01-Dec-21 01:28 PM","https://discord.gg/mjkGkm29?event=915670691343388702","",""
+"399617942087532545","Connor Martin#6086","02-Dec-21 11:44 AM","☕ --- Uniswap Labs Developer Office Hours #4 ---☕ 
+
+Thursday (TODAY) at 1PM EST on Discord
+
+Add it to your calendar to keep track of this and future events!
+
+https://calendar.google.com/event?action=TEMPLATE&tmeid=bTl2aGVkbDFmZDRwY2JoOWxrdGdpanFjcWhfMjAyMTA5MzBUMTcwMDAwWiBjX2xhcmY5aGE5NnZoN3FmajA5b2prbmg3MHNjQGc&tmsrc=c_larf9ha96vh7qfj09ojknh70sc%40group.calendar.google.com&scp=ALL","",""
+"274208745699934220","callil#5116","10-Dec-21 02:55 PM","Hi friends! We're looking for feedback on some new UI in the #📥user-testing channel! Watch me demo three different options for new trade details and come vote for your favorite 🙂","",""
+"730463593711140956","BOR4#8524","15-Dec-21 02:08 PM",":Uni: Uniswap Community Call #16 :Uni: 
+Wednesday (December 15th) at 16:00 EST
+agenda:
+----------------------------------------------------
+:Uni:  Perpetual Protocol
+:Uni:  whalegoddess.eth research on Uniswap governance
+----------------------------------------------------
++ much more
+
+Everyone is invited!","","😄 (15),Uni (12)"
+"730463593711140956","BOR4#8524","15-Dec-21 02:10 PM","https://discord.gg/DhHjc5eB?event=920754646451126292","",""
+"730463593711140956","BOR4#8524","29-Dec-21 03:35 PM",":Uni: Uniswap Community Call #17 :Uni: 
+Wednesday (December 29th) at 16:00 EST
+agenda:
+----------------------------------------------------
+:Uni:  2021 - year in review
+----------------------------------------------------
++ much more
+
+Everyone is invited!","","😳 (7)"
+"730463593711140956","BOR4#8524","29-Dec-21 03:36 PM","https://discord.gg/qzmHbRqk?event=925849729252864070","",""
+"730463593711140956","BOR4#8524","12-Jan-22 10:30 AM",":Uni: Uniswap Community Call #18 :Uni: 
+Wednesday (January 12th) at 16:00 EST
+agenda:
+----------------------------------------------------
+:Uni:  Updates from the DeFi Education Fund by Robert Kopitsch
+:Uni:  Voltz Labs
+----------------------------------------------------
++ much more
+
+Everyone is invited!","","🌞 (17),⚡ (4)"
+"730463593711140956","BOR4#8524","12-Jan-22 10:31 AM","https://discord.gg/uSNwKHE7?event=930846397270466580","",""
+"399617942087532545","Connor Martin#6086","13-Jan-22 10:49 AM","☕ --- Uniswap Labs Developer Office Hours ---☕ 
+
+Thursday (TODAY) at 1PM EST on Twitter
+
+https://twitter.com/ConnorYMartin/status/1481654249180176394","","☕ (17),🇵🇭 (4)"
+"730463593711140956","BOR4#8524","20-Jan-22 06:35 AM","January 20th (TODAY) at 8AM EST / 2PM CET / 9PM PHT on tse.gg/gemini","https://cdn.discordapp.com/attachments/673373498290470932/933686123929161788/FJiBX0nX0AA_ZSe.png",""
+"730463593711140956","BOR4#8524","26-Jan-22 02:31 PM",":Uni: Uniswap Community Call #19 :Uni: 
+Wednesday (January 26th) at 16:00 EST
+agenda:
+----------------------------------------------------
+:Uni:  Other Internet
+:Uni:  community knowledge share
+----------------------------------------------------
++ much more
+
+Everyone is invited!","",""
+"730463593711140956","BOR4#8524","26-Jan-22 02:32 PM","https://discord.gg/crhyJEyM?event=935980456497782805","","🤝 (17)"
+"730463593711140956","BOR4#8524","03-Feb-22 01:31 PM","👋  Uniswap community!
+
+Join us today on twitter spaces where we'll discuss latest Uniswap v3 deployment proposal by Harmony and HermesDeFi (https://gov.uniswap.org/t/deploy-uniswap-v3-on-harmony-through-an-additional-use-grant-to-hermes-defi/16001/13):
+
+https://twitter.com/i/spaces/1jMJgeyDLQgKL?s=20&t=Izlqwnezw4FmbG6Y5I-iZA","",""
+"730463593711140956","BOR4#8524","09-Feb-22 02:49 PM",":Uni: Uniswap Community Call #20 :Uni: 
+Wednesday (February 9th) at 16:00 EST
+agenda:
+----------------------------------------------------
+:Uni:  Proposed Simplifications to the Uniswap Governance Process
+:Uni:  Adopt 🦄  on Unicode Proposal
+:Uni:  Community Knowledge Share
+----------------------------------------------------
++ much more
+
+Everyone is invited!
+https://discord.gg/WhVbThtQ?event=941057709648789614","","💯 (33),Uni (21)"
+"798410203745484801","Will 🦄#6821","17-Feb-22 12:04 PM",":Uni: Swap Widget Workshop :Uni: 
+TODAY in 15 minutes (12:20pm ET, 10:20am MT)
+LIVE from ETH Denver
+
+Learn how to integrate the new Swap Widget in your web app with three lines of code.
+
+Livestream:  https://www.twitch.tv/ethereumdenver
+
+ETH Denver In-person:  Art Hotel, 4th floor on the Art Stage
+
+Developer docs:  https://docs.uniswap.org/sdk/widgets/swap-widget","","Uni (12),❤️ (3)"
+"730463593711140956","BOR4#8524","23-Feb-22 01:24 PM",":Uni: Uniswap Community Call #21 :Uni: 
+Wednesday (February 23rd) at 16:00 EST
+agenda:
+----------------------------------------------------
+:Uni: dr. Guillaume Lambert - All About Liquidity Provisioning
+:Uni: Ultrasound UNI Governance Proposal
+----------------------------------------------------
++ much more
+
+Everyone is invited!
+https://discord.gg/PkSP9TGh?event=946110131689635850","","✅ (25),🇦🇱 (6)"
+"730463593711140956","BOR4#8524","09-Mar-22 11:53 AM",":Uni: Uniswap Community Call #22 :Uni: 
+Wednesday (March 9th) at 16:00 EST
+agenda:
+----------------------------------------------------
+:Uni: DefiEdge
+:Uni: Nomic Foundation Funding Proposal
+----------------------------------------------------
++ much more
+
+Everyone is invited!
+https://discord.gg/5cfk2eTj?event=951160858996768818","","Uni (26),❤️ (7)"
+"730463593711140956","BOR4#8524","23-Mar-22 01:42 PM",":Uni: Uniswap Community Call #23 :Uni: 
+Wednesday (March 23rd) at 16:00 EST
+agenda:
+----------------------------------------------------
+:Uni: Jeremy G and Uniswap Governance
+:Uni: Community Knowledge Share
+----------------------------------------------------
++ much more
+
+Everyone is invited!
+https://discord.gg/uJn5afPb?event=956246193221013594","","✅ (13)"
+"730463593711140956","BOR4#8524","06-Apr-22 01:58 PM",":Uni: Uniswap Community Call #24 :Uni: 
+Wednesday (March 23rd) at 16:00 EST
+agenda:
+----------------------------------------------------
+:Uni: nomad.xyz 
+:Uni: Community Knowledge Share
+----------------------------------------------------
++ much more
+
+Everyone is invited!
+https://discord.gg/HAX7qPVy?event=961323829148409907","","Uni (15)"
+"730463593711140956","BOR4#8524","20-Apr-22 02:17 PM",":Uni: Uniswap Community Call #25 :Uni: 
+Wednesday (April 20th) at 16:00 EST
+agenda:
+----------------------------------------------------
+:Uni: Uniswap Community Analytics
+:Uni: Community Knowledge Share
+----------------------------------------------------
++ much more
+
+Everyone is invited!
+https://discord.gg/cNK5bCMU?event=966401635058339860","",""
+"730463593711140956","BOR4#8524","04-May-22 01:57 PM",":Uni: Uniswap Community Call #26 :Uni: 
+Wednesday (May 4th) at 16:00 EST
+agenda:
+----------------------------------------------------
+:Uni: DeFi Edge
+:Uni: Uniswap Grants at Amsterdam report
+:Uni: Community Knowledge Share
+----------------------------------------------------
++ much more
+
+Everyone is invited!
+https://discord.gg/ju9zUGzW?event=971470241639059516","",""
