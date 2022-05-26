@@ -1,0 +1,4 @@
+block/timestamp/time,block/height,sender/address,sender/annotation,receiver/address,receiver/annotation,transaction/hash,amount,currency/symbol,external
+2020-09-16 21:42:41,10875631,0x090d4613473dee047c3f2706764f49e0821d256e,"Token Distributor, Uniswap",0xe79057088a15ac8c9c8bec3b90bd9891a1b3af51,,0xf24757d032a2dde4a6bf4b87dedb08765eec185508bb27db1f64baddb0d0f0d3,4045.821633,UNI,true
+2020-09-16 21:32:52,10875578,0x090d4613473dee047c3f2706764f49e0821d256e,"Token Distributor, Uniswap",0xf94e5cdf41247e268d4847c30a0dc2893b33e85d,,0x593d00f42a3a1056a3ecebc156d6e93ab91e0d3392521fe490359a47f4c7eaac,1400.099543,UNI,true
+2020-09-16 21:32:52,10875578,0x090d4613473dee047c3f2706764f49e0821d256e,"Token Distributor, Uniswap",0x8688a84fcfd84d8f78020d0fc0b35987cc58911f,"web3 react, Gitcoin Grants",0x7652efe5d6fd43c075eb186efc77dcf417ccfba4b587dbee2463282c8569c0c4,1943.093941,UNI,true
