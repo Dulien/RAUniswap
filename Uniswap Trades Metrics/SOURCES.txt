@@ -1,0 +1,5 @@
+Bitquery GraphQL - using ethereum.dexTrades dataset
+https://graphql.bitquery.io/ide
+
+Dune Analytics
+https://dune.com/queries/950534

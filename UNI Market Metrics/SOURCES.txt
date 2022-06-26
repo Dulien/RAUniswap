@@ -1,0 +1,5 @@
+Token Terminal (using free premium trial API)
+https://tokenterminal.com/terminal/projects/uniswap
+
+Messari.io
+https://messari.io/asset/uniswap
