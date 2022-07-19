@@ -21,14 +21,20 @@ import time
 import pandas as pd
 
 df = pd.DataFrame(columns=['address', 'date'])
-API_KEY = 'BQYuZvqRvyQy468EBezcuOVu64gNYH5A'
+API_KEYS = [
+    'BQYec3BU4fnZ4fjIqrhb6OVyTxqN5koR',
+    'BQYpViv04ufAgXRO6TSE2dIKdw9s4E2v',
+    'BQYtlU6rv4ElNp2IboxHTPQOKcNpDZLy',
+    'BQYRD8hC1GFQy4GeubFukpxKiZyMm5J4'
+    ]
+API_KEY = API_KEYS.pop()
 i = 0
 
-with open('Unique_prepost_post_TEST.csv', 'r') as file: 
+with open('Unique_prepost_post_CURRENT.csv', 'r') as file: 
     reader = csv.reader(file) 
     for address in reader:
 
-        print(str(i)+"/"+"77855"+" --- "+str((i/77855)*100)+"%")
+        print(str(i)+"/"+"34855"+" --- "+str((i/34855)*100)+"%")
         if (i%1000)==0:
             print("Saving...")
             df.to_csv("out.csv", encoding='utf-8', index=False)
@@ -58,8 +64,9 @@ with open('Unique_prepost_post_TEST.csv', 'r') as file:
             result = run_query(query)  # Execute the query
         except:
             print("Crashed...")
+            df.to_csv("out.csv", encoding='utf-8', index=False)
             time.sleep(60)
-            API_KEY = 'BQYZNOBbPAKn2bbkb4wY7W0WlPSoyW0g'
+            API_KEY = API_KEYS.pop()
             result = run_query(query)
         try:
             address = result['data']['ethereum']['dexTrades'][0]['transaction']['txFrom']["address"]
