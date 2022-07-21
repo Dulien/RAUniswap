@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,value,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,10773806,2020-09-01 07:06:16,0x858744ddcb2ba294ee3b064cc8fb40e87e9233d267a1fd85757fe672a44de257,0,0x8a10bfdb405f6630ce89971881bcf1aadac1fa283d93a4820b795f6d43e7a0ae,0xa478c2975ab1ea89e8196811f51a7b7ade33eb11,0x6b175474e89094c44da98b954eedeac495271d0f,0x1a6e84282bb0b853eccffe92dd9d3a7d0803e825,4.519831638595171e+19,Dai Stablecoin,DAI,18,98,165969,401000000000,113282,6866697,deprecated,4410324

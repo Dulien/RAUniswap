@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,value,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,10783212,2020-09-02 17:29:31,0xa7517d7cecc8927a7d06ad82a559cc997c4a2d6dba8e4702d5b804841bfef78c,0,0x63fc0e2029f8cd436ce11ed6bf9d5c8299019a19190bcc45b478d24294bb42b6,0x8fed5d2516e1bced478c527bd6e1cb933ea0cc58,0xd5f1c30971d20f4553680f252d140c2093ab41cc,0xadf23af441e4be7a873095c7bae8940979a81f50,3.1469257606852346e+20,dodoex.io,DODO,18,48,166170,476300000233,125477,4013667,deprecated,4400772

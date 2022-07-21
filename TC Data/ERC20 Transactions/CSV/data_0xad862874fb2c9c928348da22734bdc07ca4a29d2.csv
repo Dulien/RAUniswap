@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,value,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,10781029,2020-09-02 09:33:35,0x3661b675898d82a3ce6de295ef2461520936c981213970b955c98383b14f1f36,0,0xe8fb8a8f355c2cbfd2f2647e48d2df687c143e7107f43fddadfc937a505b97a5,0xc5be99a02c6857f9eac67bbce58df5572498f40c,0xd46ba6d942050d489dbd938a2c909a5d5039a161,0xad862874fb2c9c928348da22734bdc07ca4a29d2,305739470412,Ampleforth,AMPL,9,56,173566,275000000000,132096,3370886,deprecated,4403091

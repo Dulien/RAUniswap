@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,value,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,10787326,2020-09-03 08:47:29,0x95d5fbc0f748b425db0f34255f083fef93033c11a14a53b37ef4f95565d25c3a,0,0xb39b98274873373837d057e074f3704204e6f4d4c3e99b546677549b4dc6715f,0xd4ab59987e04cf4bc918ce1327f79e8169c4f0be,0x03c866291f072471a781e701fbc9ebd2f79260df,0x83aca9279ff2fda1ab45c0d89239ea456d0355c6,1,YieldLife.finance,YFLF,0,39,173543,299000000000,120467,3719412,deprecated,4396665

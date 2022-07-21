@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,value,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,10778102,2020-09-01 22:38:23,0xaf9b7985cb97ffd157c0128d20f0020ab8317cddbf59f21ca77beda808dc2fd5,0,0x1384515cee2bd0cd4222439c13cfc89dfa5118b17ff2042c555bcd92bd14cdb9,0x77e1c6fa5410405742ff60de75f58b3c47ee2161,0x6fe19478b05555f72638c4d0d964fb64945b6316,0x401b37da10d7e24b982c2db073f5f5e6d0aecebe,2.1e+20,Yield Lending Finance,YILFI,18,244,175716,482899999998,134458,12049041,deprecated,4405986

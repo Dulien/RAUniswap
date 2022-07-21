@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,value,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,10779942,2020-09-02 05:34:01,0xbec70c8f15a19fd48dcbc0fb0d1475a063af396c2e51fcbe702ba6520e7c2d42,0,0x2a5730e6fba3eb9b76276c46a08811bbee008dd90a4338450fec4b7cf65b43fb,0x6e07a1c50d4db0979a0a65bc8b13744a8a1501de,0xcee1d3c3a02267e37e6b373060f79d5d7b9e1669,0x8836af33e2f6ce3bfe62a8b17bb979c969cd5682,49295261112335744,yffi.finance,YFFI,18,156,164759,480000000000,112198,11781795,deprecated,4404224

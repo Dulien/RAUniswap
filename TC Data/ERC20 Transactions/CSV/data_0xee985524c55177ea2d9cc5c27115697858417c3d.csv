@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,value,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,10779193,2020-09-02 02:42:41,0x1d099e8b0fd7a104f1739fa42343e2e4f4e2af7c9c717f3d537eb4d874a083fc,1,0x240f08f4f37a99d0876e05436faa0d4b453348d5ceb83be1dc61f22e50da7a2a,0xdfea03ed1ec53116cd6ea45373cbb6e8823ef59d,0xae697f994fc5ebc000f8e22ebffee04612f98a0d,0xee985524c55177ea2d9cc5c27115697858417c3d,1.738758190730688e+23,LGCY Network,LGCY,18,86,166401,471000000000,125685,7634043,deprecated,4404526

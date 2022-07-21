@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,value,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,10780322,2020-09-02 06:57:52,0xda5863dbfcf683fd40a6b19d29f64bcf6451b26470a7750172a2fc5fbc1b97d3,0,0x9eef7636991b77d49cc54b9eb2cf92656aac78a07a5e3c3b95e747f23047422d,0xb20bd5d04be54f870d5c0d3ca85d82b34b836405,0xdac17f958d2ee523a2206206994597c13d831ec7,0xa028028c38260b6582d713c8fa5e5d41197f301d,47222016,Tether USD,USDT,6,145,254041,520000000000,192168,7716090,deprecated,4403679

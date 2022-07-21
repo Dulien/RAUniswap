@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,value,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,10779235,2020-09-02 02:52:02,0xe03ff730b01aec0f66c91d7b3644961a2a6422f920311456fb6e582dc24298e3,0,0x81618c314656257c2f1fc93c26b95a9d89f082d438812a90cf6afd0d85443392,0xc7e88d9c759476ba8ac9b3390216454f663d5b5a,0x3f2b13e7e0d997d9ddf60ec6c260d6635bcc2039,0x2dda8a68328123695143be0238f0ffcce1cc2210,9.773800090399719e+22,Mango.Finance,MANGO,18,9,181637,552800000000,124543,511901,deprecated,4404454

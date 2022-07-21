@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,value,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,10784246,2020-09-02 21:24:22,0x398e72c890fbadef3e8cdcce98c665837308756c8798e846bf664f7ae307c4f8,6,0x02f0c9195a70f22c75d30104d77dc022550ccbca85e6bdc8eb660c7b35372868,0xfe6e67a967ff7809266d2539de753c968b50b779,0x8e2f94c4bf476ba14d931a38fbbace6e87d896a1,0x74c281031573715e2c6e93e5b06e1b8badad905d,9.062054502832311e+20,Banana Finance,BFI,18,30,167288,320000000000,126479,2514361,deprecated,4399543

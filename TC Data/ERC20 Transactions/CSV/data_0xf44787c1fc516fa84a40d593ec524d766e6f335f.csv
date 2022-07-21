@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,value,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,10780366,2020-09-02 07:07:31,0xcc4b5d61ee6ad9c39f89f9454b94221c45ba4a1ea57c80ca718412e8b8b1e96f,1,0x388876d40c74e1c628374be03cb543a9299c9f8d70ccf98877f05ea57fcb704c,0xa301245e9f8fc01a3cbcfb6ba267f5600614191f,0x7f0ecd046e2105c40b5ad41d7ca85ff12cfee0e9,0xf44787c1fc516fa84a40d593ec524d766e6f335f,3231603117925249024,CRUG.Finance,CRUG,18,115,225675,471000000000,124874,8603925,deprecated,4403391

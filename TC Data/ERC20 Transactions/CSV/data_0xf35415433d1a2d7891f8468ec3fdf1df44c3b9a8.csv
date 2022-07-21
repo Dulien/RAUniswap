@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,value,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,10778795,2020-09-02 01:16:40,0xf740556646d8331c5717abc5a20e430a1810f81b947889bb5dd8b881a2f2f165,0,0x9293312c8c39f39a5f50a7d33ec848ebe3966585c8595b7449398d06c83a245a,0xe92346d9369fe03b735ed9bdeb6bdc2591b8227e,0xe54f9e6ab80ebc28515af8b8233c1aee6506a15e,0xf35415433d1a2d7891f8468ec3fdf1df44c3b9a8,1.87067037885013e+21,Spaghetti,PASTA,18,115,176667,471000000000,134871,4786097,deprecated,4405166

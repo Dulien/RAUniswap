@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,value,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,10777406,2020-09-01 20:07:25,0xa057605677cb82435194652a77f846303a752ebed13010f5561325df6d82bef6,0,0x1e6460e0bc3df06a59c423b78fd70dee8fdcfa54fa3d5315dda5644e9434a4f5,0x04840eaa3497e4c3934698ff88050ceb9893f78f,0x9e78b8274e1d6a76a0dbbf90418894df27cbceb5,0x09e30ba28e89a9103f904a2520002e836ec18559,5.188940543254741e+19,UniFi,UniFi,18,110,164858,479000000000,124304,11818317,deprecated,4406595

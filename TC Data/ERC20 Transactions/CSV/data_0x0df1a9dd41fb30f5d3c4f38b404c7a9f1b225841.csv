@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,value,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,10773764,2020-09-01 06:57:53,0xaf60f7c3eb144476c6880574ff3d5cc4eaa559cda1ef969f8b6f5b78ff909f98,4,0x4dc028be5081302123c10a53e71584f813e46a60d38617f918f16d4d91ab8fe9,0xe316f3b6716ab2b80a1cd7061b1c317a752f203e,0xa9241c6bc2f536ddbedca8d95b83af05988f6afe,0x0df1a9dd41fb30f5d3c4f38b404c7a9f1b225841,2200000000000000000,PWQ Finance,PWQ,18,58,173565,441000000000,132503,4172200,deprecated,4409897

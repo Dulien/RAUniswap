@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,value,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,10778001,2020-09-01 22:19:37,0x8fee27cc54545c422a712edede1f121440b5f448189e55344ac753bf5e701653,1,0xb35d27f3e6b568f526b810da99c86e8fca86043c1ec9b81aa4e1556c72677752,0xce84867c3c02b05dc570d0135103d3fb9cc19433,0x6b3595068778dd592e39a122f4f5a5cf09c90fe2,0xee1cce549f7103ca65fa6e8215e8824eceb1e9c7,2.0836265454286737e+19,SushiToken,SUSHI,18,120,151565,300000000000,112409,9251940,deprecated,4406063

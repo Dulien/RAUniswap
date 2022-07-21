@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,value,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,10770571,2020-08-31 19:19:34,0x2dca56ba268da4147e23ff63bad4e5652e73f78d04df44b55136eba6e9021c40,0,0xa6c45bfb6ccda8721e0c6e7de0371fb61baa390fae9bda467d6d6c71675d93f0,0xde2e46992bd4f86471b52f21dac2d7c9f6deac26,0x6781a0f84c7e9e846dcb84a9a5bd49333067b104,0x6664a2ae39661b046132392fe5ccb899aeb49eda,1e+20,ZAP TOKEN,ZAP,18,174,173848,232000000000,132760,11760345,deprecated,4414015

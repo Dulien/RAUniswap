@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,value,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,10783574,2020-09-02 18:53:51,0x7c5a58494e7e30aa70ebea2491a79c954e8f2c7344974b068fd5f1a19715751e,5,0xcb9a6c179fb1800f6172b79c2208071db2ad76530ccf238c4747f77f2d26368b,0x8386e3e719612f1baaa91ccec46593056594656b,0x1d8dce63d49252dd8eca38b1abfe4d3f160e0647,0x2709a72faaedcba682d6e557bf101af47bac2980,1.8e+21,pizzafinance.com,PIZZA,18,75,173567,450000000000,132505,7378289,deprecated,4400531

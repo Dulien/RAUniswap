@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,value,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,10782522,2020-09-02 15:00:45,0x22406dc68e789419abfc6606d161388cd641306e241a5ecfafa87a9c9cc11687,0,0xfa65dabed98d2faa681fdc7d6fb451f380678a8b8ee977df8f08ed9d1ccb6660,0xcaa061c7dbf81de5866ae8b361e76517476400f4,0xe86c25453cf705ca2cc742a2bc5355ffdb6a84c8,0x880ecfc597515a48ac492ffc54b6ec403c5b8edc,2426835389177000960,Liyam Token,Lyth,18,197,164940,538000000000,124377,10617479,deprecated,4401535

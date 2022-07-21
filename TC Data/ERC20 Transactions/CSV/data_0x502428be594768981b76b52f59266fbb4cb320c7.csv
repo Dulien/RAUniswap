@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,value,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,10780924,2020-09-02 09:11:54,0xf8135a2deca2f838d134387b0acfe2fc201659d40e33f53e8f5d02109af327f6,0,0xe15be061c84c394b6a74f1d447df9bde5d65ed6027850ed415945ad44e8537b3,0xe88933182319c73977e7d573eb7a228cc677b582,0x21cb480f6dd0d2ed0716cd3acd3d638fbe02b929,0x502428be594768981b76b52f59266fbb4cb320c7,1.4884076525060909e+21,kube.finance,KUBE,18,65,182638,499300000000,125357,2949176,deprecated,4402819

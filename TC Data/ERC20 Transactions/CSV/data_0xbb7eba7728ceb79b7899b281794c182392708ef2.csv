@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,value,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,10781149,2020-09-02 09:58:49,0x1fb3acdbebed8c36cca99130c96bc6571931cecde76edf3372ac90ab00fab478,6,0xe3732f856125ff93402b000bc5d766cb248abf7f0df15a480dd592cb58c13898,0x7b48d3d78473b932b44a36597903083cad96e8da,0xf0be50ed0620e0ba60ca7fc968ed14762e0a5dd3,0xbb7eba7728ceb79b7899b281794c182392708ef2,558668734641,Cowboy.Finance,COW,9,86,247337,285000000000,198112,6584447,deprecated,4402869

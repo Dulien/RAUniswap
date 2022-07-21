@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,value,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,10774654,2020-09-01 10:13:31,0x303449e5ffa86df50229355374314fbbc29b3e12db893f68a3b508280870233a,0,0x72b235082703ae90aa763a65a11c0c5f3fd3fb560e935c59434bd93761b842f6,0x8fa72b67d9671a81072c7c647cc29dbd5c7b1e16,0x108901e868d31776c40fd276fe101e2ef7027cca,0xd0a9dde6f027b8a3ab6cb61ee77c7229074f0178,1.35e+21,Stratum Finance,SFI,18,68,175716,450000000000,134458,4352476,deprecated,4409330

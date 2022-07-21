@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,value,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,10777089,2020-09-01 18:59:03,0x68448c54b70e5ef35254dec43faa8bedeef9b441a748635f2e15b7e2bd5cc3da,0,0x53dc4db087d7d4c3929cbb4f74af81b14684eb60835756b519d41f9fb5869c4d,0x6a006cc42258725d536caacadfe1d198af53cf60,0xad3bd65f8f7bfaf25d68997b4fee3092b408a08f,0x7c6a39b1436aa1306b63a281420cb9199bf0e2aa,2e+21,Glia Finance Token,GFI,18,77,175716,479000000000,134458,7864269,deprecated,4406630

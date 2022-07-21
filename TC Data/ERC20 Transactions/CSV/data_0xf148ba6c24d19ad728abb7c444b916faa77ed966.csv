@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,value,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,10789219,2020-09-03 15:52:45,0x3184136d616b89b36dbd42cc2d71b81dea2808e006e1614d6c3a86dd35fd107a,0,0x34c0122274c6e64be0d8fd576de4d2fe769ea1a6f16a995bb918bd88e7e7c05b,0xad19b7e2b1dac6cea46b18eec731981c08e6f08e,0x94d863173ee77439e4292284ff13fad54b3ba182,0xf148ba6c24d19ad728abb7c444b916faa77ed966,8e+19,Akropolis Delphi,ADEL,18,175,179341,500000000000,125738,12230612,deprecated,4394760

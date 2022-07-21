@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,value,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,10784478,2020-09-02 22:20:14,0x72068a1f0b9e856bd1f74fb04529948f49f8e3e02764d7131167e5695632efa9,0,0xdc7eedf055f08d9d5a67ff8de65b89cde4a581355b4931e8136ce98623969092,0xb328eb3175b5440dff5b158205a9906a97c37c51,0x3c6ff50c9ec362efa359317009428d52115fe643,0xaaa7cf9d031771d8324eaa3de44e2f754ca789bf,4.3e+21,PeerEx Network,PERX,18,111,174829,317000000000,133652,8588896,deprecated,4399718

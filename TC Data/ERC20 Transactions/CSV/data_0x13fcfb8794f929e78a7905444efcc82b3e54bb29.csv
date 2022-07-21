@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,value,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,10778143,2020-09-01 22:48:53,0xfb1c98fc6dacc18d3f7f273cbab0a0f9f9acb14618dac989b887e4b22aa38796,0,0xe4d1735d64b1815c3d298f66c060ce21fb998e67f4de77870da3ad7c2f3f2ac3,0xc4da39e646e7f5d233b89ca0f7b75344e7ddb2cc,0x1e18821e69b9faa8e6e75dffe54e7e25754beda0,0x13fcfb8794f929e78a7905444efcc82b3e54bb29,2.4e+19,KIMCHI.finance,KIMCHI,18,31,160116,518000000000,132292,1711964,deprecated,4405705

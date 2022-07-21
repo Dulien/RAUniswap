@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,value,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,10764619,2020-08-30 21:26:47,0x41fa4344f5222f586aecf545e3b8b592375921d2b94e332a671d64ec4925cf21,1,0xbcb4bc353d989ed6e6fc04348c33be14fb2174c20ce10e03e6b8249e9e40eba7,0xb6909b960dbbe7392d405429eb2b3649752b4838,0x0d8775f648430679a709e98d2b0cb6250d2887ef,0x5e15eca0058059603a7b26e5f11f22bc14d1b0f3,120435421203808352,BAT,BAT,18,24,166236,127000000000,125537,4399604,deprecated,4419715

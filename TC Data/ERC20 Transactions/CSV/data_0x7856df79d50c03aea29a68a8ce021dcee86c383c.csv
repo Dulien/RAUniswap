@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,value,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,10780608,2020-09-02 08:02:25,0xed1bcbdbd04f2b62ac5f168ac6023fd5ce6b4e1d55a1aa8f221bc779c2bbad39,0,0xbe65cd3d757bc924f6ba2b21cbceeaa09e2e91fcab537a201db3334e53d47cb5,0xb0fa501e1f97d32133e742acbc499cf4d8840772,0x309013d55fb0e8c17363bcc79f25d92f711a5802,0x7856df79d50c03aea29a68a8ce021dcee86c383c,37836930456,Soft Bitcoin,SBTC,9,173,168619,518100000233,127669,10127012,deprecated,4403276

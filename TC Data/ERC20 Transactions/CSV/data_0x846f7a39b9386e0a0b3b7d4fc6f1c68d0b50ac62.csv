@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,value,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,10777510,2020-09-01 20:34:13,0x16d9a74bad828a17e187e426afe5c67046d665cf61558f79205f84573e5753af,38,0xb3f038e676aab822d2cf2360742ee682fcda87e42c4ef070fbe26b8a1f67648f,0x9cf72af4c8b8d1d3a1939fa3817cd1ea67b98b2a,0x2c67c16c1b3b896bd45c088d00530ae195566243,0x846f7a39b9386e0a0b3b7d4fc6f1c68d0b50ac62,2000000000000000000,GUM Finance,GUFI,18,109,173324,500000000000,132284,5949233,deprecated,4406239

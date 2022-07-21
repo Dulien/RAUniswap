@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,value,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,10780460,2020-09-02 07:26:38,0x6c41af10c2f5c8e031a7f5014602eab516eedf8360a11cbaaebdedfacb24cfed,0,0x7be906d91110dc1a2c346fe7d0629115e1ea56376c4ebe6b54378b2d13c2d7d2,0x6a164da2cdae5f1836c8fe6d683c3df4a0a65e5c,0x5d269fac3b2e0552b0f34cdc253bdb427682a4b9,0x3ddc2c657cca8fb6d00135048a26bf120327b36a,7000000000,Davincij15 Token,DJ15,9,89,174581,444000000000,133426,7108807,deprecated,4403413
