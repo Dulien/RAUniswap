@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,tokenID,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,14201511,2022-02-14 02:24:35,0x86bb9299591a2443e72106e2234a77968f9aa7b7db6b620c071a978b6bb2a72c,59,0x23cfd65f1c0ee0220c8bc9430f1e77fbf44d466e79120c5356f1ff8c48d200a3,0x9f8c1ed0334b06d62d04e6bfe4c8a3adb2e15ad4,0x5fff521cf177782bf21d4b03f20aa616573eb8dd,0xa70c8d3924340828dac517638aa489d76a9441c9,2779,Reflections NFT,RFL,0,101,316429,53917320935,201212,7220729,deprecated,1064367

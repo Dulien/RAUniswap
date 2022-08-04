@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,tokenID,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,12959699,2021-08-04 16:24:21,0xe8096d29012030fb5d93f4f7f5acc7b5c504a01c42f4e3f9894e03e96d0dafc9,388,0x90b754b3d4421f0dd9ddf75137a922dfac2cd46d982aec7eed6349fc26bfc5cc,0xa0a2450a404b9a50883964b6cab925a2b460516d,0x004f5683e183908d0f6b688239e3e2d5bbb066ca,0xfe9b382c22c6337ee406a42130c12becf93e1a59,1854,Hall Of Fame Goat Lodge,HOFG,0,92,243520,68000000000,206167,8578181,deprecated,2306140

@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,tokenID,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,12062917,2021-03-18 13:25:29,0x7b634b72b8808464f8295357ece6a10d0a84007a3f1ef5885cd9cef91ab43cae,66,0xbd99b01b92739580dfab9260b0f77f21e323c44f404d13afb6e88e8644a3957f,0x0000000000000000000000000000000000000000,0x97ca7fe0b0288f5eb85f386fed876618fb9b8ab8,0xb1a41e91e5bf79571081e4e96e0fe4150b78d552,4081,Ether Cards Founder,ECF,0,84,219273,194000000000,219273,6498156,deprecated,3203274

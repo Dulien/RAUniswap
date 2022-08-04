@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,tokenID,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,9346834,2020-01-24 21:13:43,0xedbad35d2dbdecb90da2046c80d19e4fc7eaedc67065e059d0907c2cc61ec2b0,8529,0x60b4f01ccdce130fb3ce1ac490c7e87bd9b13565783000b174ee2ac1256fb4c8,0x0000000000000000000000000000000000000000,0x2aea4add166ebf38b63d09a75de1a7b94aa24163,0x84b282a7c1d6da8db75a30782f2b55244136f022,9878,KudosToken,KDO,0,74,500000,3000000000,326095,6483669,deprecated,5919000

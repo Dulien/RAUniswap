@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,tokenID,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,15005418,2022-06-22 02:35:55,0xbdbfa11769846e784ab2f8bd5a2065118fa0143ed2145a2af04a1d00e702ca08,27,0x7b81a5dad8093a62cfab51ba2d0afb0b74ec42a21d9fd44454bbba66270cf010,0x0000000000000000000000000000000000000000,0x0b3ae1dcc8ad62c1ab8693a9dfbfa246fc20482e,0x8878ec23ff2f1976229b451696a121ba3a7486ca,4114,BAGHOLDERZ,BH,0,179,128966,30160975673,123974,14274014,deprecated,260641

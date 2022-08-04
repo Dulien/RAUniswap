@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,tokenID,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,11314831,2020-11-23 13:47:44,0xaf63d810c4401fd1664989a39274dce55513d36efea76014dbe927cb645c58a7,198,0x94251d692305e65841aa9a2e4981a392b927ccec4923e36841d8c789ad8a779e,0x03c5cda137d6744d626dd095d1c9ae14996a17d3,0xdbba35892f7bf059c65279c0eebd05d9bb00af1f,0x6e71ac7083dca52ea4c9c04695a1b3a6239374e1,131,Lootex Heroes,LTX,0,145,128876,104000000000,98876,11463846,deprecated,3951084

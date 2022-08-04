@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,tokenID,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,13344222,2021-10-03 04:54:25,0x3dd468eeee13a68cfb258e9c6c0bd724313441f897c0b9dc9baad527d0aa48ce,16,0x0d0195984773e01317cc75899b4d03b4d9cf98350341bbaa56805d985a77f38a,0x13a9518a451edad79079753c89cc7197ff3f570a,0x986aea67c7d6a15036e18678065eb663fc5be883,0x8bd850477a39d352f6888d00c5cc93668fecba2d,6325,NiftyDegen,DEGEN,0,130,257530,44561068356,193159,10404410,deprecated,1922057

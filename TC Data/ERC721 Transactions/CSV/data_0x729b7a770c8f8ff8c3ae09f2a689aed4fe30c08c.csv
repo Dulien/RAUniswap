@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,tokenID,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,13094074,2021-08-25 10:38:13,0x7c2139dde6748d2803c8ee9858d767f2545bb72fd338beb38badcd59c68cd856,81,0xb904acf9a43c9a4fb70c11b809883b92e4d9de2b97821bed1d46cf28bc5fad75,0x373361cd6ad7711f73fa71ddcd1c3f62da7c4439,0xe12edaab53023c75473a5a011bdb729ee73545e8,0x729b7a770c8f8ff8c3ae09f2a689aed4fe30c08c,5624,CHIBI DINOS,CHIBIDINOS,0,99,300536,69998973925,216640,8530343,deprecated,2172188

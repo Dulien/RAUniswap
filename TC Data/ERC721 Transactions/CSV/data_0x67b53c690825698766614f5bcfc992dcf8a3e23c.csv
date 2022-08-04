@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,tokenID,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,7060477,2019-01-13 18:21:03,0xe822c7d17777f644f21d1a8d070f8ebf2986b7d52c5310fab3820e1e369c7706,28,0xe5879de71d48c61a79b95bf76f5a6d8a42ac6493e75f0820c16c1611622d55e7,0x0000000000000000000000000000000000000000,0xa5e5be69c923c701ae6ac8f1f5936af3ae610c68,0x67b53c690825698766614f5bcfc992dcf8a3e23c,3202,GU Collectable,TRINKET,0,68,238835,6000000000,226285,3660471,deprecated,8205781

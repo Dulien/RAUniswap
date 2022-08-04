@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,tokenID,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,15102156,2022-07-08 13:23:46,0xfd0ed06a6794b71b7da845a03300fa14959e1af170845fb97937117dacb82a80,64,0x21b4ec0cd7f4a060be98e12e90e4da3438a050f91864f5d6e0b78e688ffa1455,0x0000000000000000000000000000000000000000,0xa76b283c4fe27b324f22a7dc21365a0c816addcb,0xde723fec73e4a2385a37464b40ce95d88008e78b,80,THE INU NFT,InuNFT,0,39,122025,39666502721,81350,3168218,deprecated,163898

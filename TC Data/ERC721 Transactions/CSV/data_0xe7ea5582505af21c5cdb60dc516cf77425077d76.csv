@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,tokenID,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,12129376,2021-03-28 18:50:29,0x2f4ab08b6e8db50148376e777bdc9aac15414aa43d06db72bd9f500e2b8d2c11,32,0x4050aabb09e9fd247b9a1bfafd7a2b090d3742fe49fb167adb15ba82606ccfc8,0x0000000000000000000000000000000000000000,0x57e9a39ae8ec404c08f88740a9e6e306f50c937f,0xe7ea5582505af21c5cdb60dc516cf77425077d76,994,Polka City Asset,PCA,0,35,350000,164000000000,258623,2956516,deprecated,3136862

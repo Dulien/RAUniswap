@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,tokenID,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,12917429,2021-07-29 00:02:34,0xccf2e53c6dfc18d5d584f93524b482082de211da21a8b2b29851da3e2fb68151,172,0x3027734284c348b7d743d7c273d74c1ae0dfe56f1a8a2f63b03166031fa1ce3a,0x0000000000000000000000000000000000000000,0x021ca7d72f8afeadf7b47300a1aecac5f44c1af1,0xafd9c6afcff9c121ec10110505b2603948c07176,168,Evoh: Sushi Frens,Evoh-SUSHI,0,83,220189,27489000000,146793,5845499,deprecated,2348746

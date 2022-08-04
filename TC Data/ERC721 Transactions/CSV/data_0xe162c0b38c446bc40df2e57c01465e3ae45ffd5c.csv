@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,tokenID,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,13157148,2021-09-04 04:48:54,0xd6abba36758bf66d5cf3605a2bcc4e76814dcb5d8b7a71dbebc348ce3c194fab,176,0xa6a165735786e4bae51aeab9fa06bdf0164fd8afd041ef3e4674eb100a5679a3,0x0000000000000000000000000000000000000000,0x064f9547a78bd5ba35a7aeb2221de69b86cd6307,0xe162c0b38c446bc40df2e57c01465e3ae45ffd5c,414,Floki Inu - Ruby,FLOKI-RUBY,0,190,181841,92990695153,179800,23219390,deprecated,2109253

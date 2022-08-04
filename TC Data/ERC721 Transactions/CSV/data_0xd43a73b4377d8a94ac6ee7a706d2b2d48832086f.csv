@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,tokenID,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,12983243,2021-08-08 08:19:16,0x6a0e9331a165d9c165746a6631bd01588b19fa15cc0b706a249d5172acc22854,77,0x8d4b804365891bff67c201e051e9ec969889bbf7c8326bb8d067b9ace8eded6a,0x0000000000000000000000000000000000000000,0x306220604a87bc090ff7dd8656c6bd446a1c083d,0xd43a73b4377d8a94ac6ee7a706d2b2d48832086f,58,NFTManager,YELDNFT,0,144,745639,34754674921,489819,11465893,deprecated,2282582

@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,tokenID,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,6622740,2018-11-01 08:59:00,0x4de6a7a4638737989f111eada9f79ef28aa77827db95cf1d40228665b5916a5d,39,0x780668c4bd0f5bbd6bece14fa7a502d02616adce52da620767a8e2345ef7f8c9,0x0000000000000000000000000000000000000000,0xb69942ce8152cd07463d12212af8e7f1cdfe507d,0x866d3579d51388c7800712ad8e7a33424494a39f,10000066,midu medal,MEDAL,0,85,4978340,5000000000,4101812,7058883,deprecated,8643342

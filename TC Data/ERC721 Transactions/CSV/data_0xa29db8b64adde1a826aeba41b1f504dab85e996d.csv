@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,tokenID,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,9228870,2020-01-06 19:39:30,0xb54520b954747f7e0f7fac83525d5470e53c3b3e786c789c8a8bdcd52b68031f,16836,0x3b0dbf0c587868d4b17b657ef7256a0883118da7ec076af99cd00800b75454e7,0x0000000000000000000000000000000000000000,0x2fb5d7dda4f1f20f974a0fdd547c38674e8d940c,0xa29db8b64adde1a826aeba41b1f504dab85e996d,16466,KnightStory Item,MyKI,0,4,250000,5000000000,194746,446604,deprecated,6037101

@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,tokenID,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,14977298,2022-06-17 04:50:56,0x859d337f3eee03e8133ff3f57742ab67dac43695fe7800d4f166fae6fe6c804a,104,0x3c65783e05bf6f6acbf97d7347f0db7c939d7ea7aa815af42a9a34e398b61be1,0x0000000000000000000000000000000000000000,0xd945f759d422ae30a6166838317b937de08380e3,0x3ec9dfb6815c2e4d09190b34005f488a886fa435,23826,Zora API Genesis Hackathon,ZRPG,0,155,98786,25585212750,92764,9581586,deprecated,288626

@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,tokenID,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,13655827,2021-11-21 03:39:14,0x5fdcf62931ff160a5b1baaf89e58bdfe1f4e5731a0a06d0828524c0ee7c3e5cc,401,0x37b4a1c6a6a1031d6123ca8c0be032cd0a18420abcdee682a3737f5dea602f4b,0x2380ca49ed8e933c97905977763693e5cf8770f4,0x8c186802b1992f7650ac865d4ca94d55ff3c0d17,0x2aa1d4b8a7ef9662dce8d17f1b4ea653fa08c62d,5324,Ninja Squad,NINJA,0,25,259220,80866233390,194459,3018076,deprecated,1610461

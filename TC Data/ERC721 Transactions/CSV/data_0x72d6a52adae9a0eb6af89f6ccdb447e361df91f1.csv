@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,tokenID,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,12917935,2021-07-29 01:53:09,0x9c37cae141b28db435287d7306f41708b15e85819eb610bfd02c991811df6e46,91,0x543dd4fed86740ad4f11ca2b3b61845c51f039de9391563730137955221daf80,0xff938e543f166e468967b48ff9ace07c2db87582,0x9ef27de616154ff8b38893c59522b69c7ba8a81c,0x72d6a52adae9a0eb6af89f6ccdb447e361df91f1,42085,Azimuth Points,AZP,0,75,560000,19000000000,207658,6138957,deprecated,2348451

@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,tokenID,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,14939119,2022-06-10 15:13:19,0x84ac5829fe90a4da96b57105ad709f7c7776ab330d9e94747a637e2412db3697,15,0x67b8f0a742e2bb5b0f2a9a1a4925a1221880a38ddb8501f163a47eeb24ede3f6,0x0000000000000000000000000000000000000000,0xb325b13848f79f205e901fe72702b360bcd4f133,0x34595161c89b8791ca916453a2103de4af338660,1414,ZED Pass - Budweiser,ZEDBD,0,53,191077,55427287366,127385,3431204,deprecated,326778

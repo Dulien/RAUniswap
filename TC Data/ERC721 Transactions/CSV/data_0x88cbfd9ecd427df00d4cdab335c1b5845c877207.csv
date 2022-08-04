@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,tokenID,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,11975271,2021-03-05 01:21:04,0xf7d50d284aa83cc3a5bd9a5451e793055076b2ffe14f53f2b3b735983fb0329d,29,0x3fa954f260a1ec49b21ea0eae5e5898d96d3ebba45ae64699da8dec4d557a47c,0x0000000000000000000000000000000000000000,0x60f80121c31a0d46b5279700f9df786054aa5ee5,0x88cbfd9ecd427df00d4cdab335c1b5845c877207,267091,Rarible,RARI,0,127,293952,114000001459,293952,10924227,deprecated,3291162

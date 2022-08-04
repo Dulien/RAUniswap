@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,tokenID,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,13771709,2021-12-09 15:02:15,0x46b45e09f0e94d850aafe7375782f7aac8c3f158b707810c18121d96d5cd5e7b,739,0xd66c64e72ace50227fac967a8ec2d25f6e01049e8f455d8f3a46a43c404f87c8,0x0000000000000000000000000000000000000000,0x8c5029957bf42c61d19a29075dc4e00b626e5022,0x43ac66990ba634a08e8af7ec28b55fe789dddb96,6797,Alpha Girl Club,AGC,0,235,95785,135753864307,63857,25159593,deprecated,1494101

@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,tokenID,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,13442216,2021-10-18 14:01:31,0x5669924878758e0781bd1bb4e7b5e172513c1180f10ac7e138aef6553fe332ff,155,0x14894f8b54a640fe45b6a65e827b78287ad9e009da445c6ff3a78dae340eaa55,0x0000000000000000000000000000000000000000,0x85b8a657b9988260b019c95f6e6124f20101cb82,0x2578a2972c88bc1bdc98288d6d2e770113b5c875,140,Daimon Slayers,DS NFT,0,229,212719,85157883697,177266,12808255,deprecated,1824147

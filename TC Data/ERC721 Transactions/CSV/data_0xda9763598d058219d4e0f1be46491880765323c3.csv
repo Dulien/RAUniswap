@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,tokenID,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,13443112,2021-10-18 17:21:37,0xd06c992aa139f16dc85d7d11d8ba55278e7c7d4a84fa4a3dbd4fff2fd1dc1add,7336,0x5ce9e34643e7bb2366cab32251366d0adb7512881bad86dbba999bf1910b7b38,0x951b6d50d07c39b0f97a7bb2f5c1e96f07a093d3,0x8cd8155e1af6ad31dd9eec2ced37e04145acfcb3,0xda9763598d058219d4e0f1be46491880765323c3,4586,Cupcat NFT,CUPCAT,0,54,134926,83011801366,125326,8965750,deprecated,1822920

@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,tokenID,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,11596356,2021-01-05 19:10:13,0x5cb5ad7bb0218533fb280d443baeaf0101b020e1411041640df22ac2d55d45a0,24,0xf15133770c96cd22f80b3fa6e60dcc1e26c3862d0fe212dca98a30f5e07f7ff7,0x0650d780292142835f6ac58dd8e2a336e87b4393,0x4d695c615a7aacf2d7b9c481b66045bb2457dfde,0xef11b81bf60e7927523c09841ded5ff7f2ddff5e,8,PoolTogether Loot Box,PTLOOT,0,78,1332341,104000000000,1267497,6566381,deprecated,3669602

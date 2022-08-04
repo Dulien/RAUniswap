@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,tokenID,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,14970753,2022-06-16 01:52:56,0xb3af244516ef7d71cb56e51494c5ebb20285e804ac72c4d18c0b9cd17ba4fdf2,82,0x149cbbdc6dd35938e8820181f6ef70457b1228da05c8413db18ec1aaeef827f0,0x0000000000000000000000000000000000000000,0x752b0073422a7f9cda7f71b5fe7f12a1789e6506,0xf5d2e347a2d51f77fdc824db534a709cdbe5f7cd,256,OtoCo Series,OTOCO,0,74,9810767,45014790533,9660174,15211304,deprecated,295066

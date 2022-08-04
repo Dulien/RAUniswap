@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,tokenID,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,13963584,2022-01-08 07:59:36,0xe2f2aa1296d7806ec950d8253342483dead0efbfb094daf0da2088d61e9f433c,24,0x7e65d98a5935b9c70e757fc1e7bdc85d94a7671054480747102040ba36300ffd,0x5f50d21700333e15f7ffc3ae38c9b396f1b449e4,0x315cdf22f70401813601b7f0d6e9923ec0428cd5,0xf54ae3beb4adb698dabda575bb66b130cfa9d21b,3025,Ben Mezrich Project 1,BENFT1,0,15,350610,93000000000,255159,1035558,deprecated,1302190

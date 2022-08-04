@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,tokenID,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,13940751,2022-01-04 19:08:06,0x6ca9aae94d92e3594101735b10e28e524e47ae5573fb2cdaa5a6afa2c7fd0654,331,0x88bef5309e1aec72a29272e8ed66fd34375d07cba695a2c2dcce41355ac7d582,0x0000000000000000000000000000000000000000,0xadc28cac9c1d53cc7457b11cc9423903dc09dddc,0x5e46701220c614a97e608ed6c687eb084a8cddae,4447,Sketchy Ape Book Club,SABC,0,314,240000,177804520796,149822,23648426,deprecated,1325381

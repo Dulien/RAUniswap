@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,tokenID,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,13488385,2021-10-25 19:07:24,0x5a4bf8229a00f1db2571efedf9428c532b19d7fd71c369f6ac8d735ce262d4a2,113,0x14c883bfddb5a72b0558fae9b7c26b307c7bc573356507216a7250099daea747,0x0000000000000000000000000000000000000000,0x025983cd3530f78b71b4874eb5272c189b357e61,0xd9750ae56a1964591629066715ab4aff852a24dd,21,Aircoins Metaverse,AIRx,0,355,237346,152700269028,158231,22966810,deprecated,1777913

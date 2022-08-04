@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,tokenID,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,10944993,2020-09-27 13:53:37,0x85def3b3d3d7ca3803c954b05b30dbe84a324e3d30c8493fd771a88d12a3f31b,79,0x7b9051a5e5349c5c6a5f2352fafd0ce98ef7d283e585beab872fa61addaed2b2,0x0000000000000000000000000000000000000000,0x27b4bc90fbe56f02ef50f2e2f79d7813aa8941a7,0x097310d37f2ee805204861ed7449fee50366bee5,409,gego.dego,GEGO,0,50,639889,82000000000,423822,3757969,deprecated,4320917

@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,tokenID,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,11167520,2020-10-31 22:59:04,0x27b72b8eec8d308611e51bafbfa322c0ca9711b97573dd5842ed80c8d172fe83,127,0xa47bdfa54059b8d74492d3bc7a5e05e549329990a0a7ee071fd1838c0d934b0e,0x70221c913f929bd69df4f56ae4833b07c12a0f29,0x7a5a2e24a256005d25389b0efb9f0d97b8cb8647,0x8c3435a67105d23f4b622805afc94b1450679bad,122,pulltherug.finance,RUGZ,0,32,3478077,17600000000,2563077,5238998,deprecated,4098284

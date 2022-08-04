@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,tokenID,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,12669652,2021-06-20 06:31:13,0x453f05d1c33ec59d82c29e5b434945c83d1e3280fd2e2d6452f6c15377ac1d17,49,0xd441b66e6da9f5f9b50b1bfe074f3c29ec15779b29a132e688982ec9347ec444,0x0000000000000000000000000000000000000000,0x017bba5d5d32feb687fdafb9700418d55daad091,0xdb26911acc657e91af3f7680115f2af99b55e87d,959,NFY Staking NFT v2,NFYNFTv2,0,53,562060,10000000000,374707,8962497,deprecated,2596095

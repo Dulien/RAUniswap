@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,tokenID,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,14466502,2022-03-27 06:02:06,0xff6dccb0d53fa79136e1f611ffcb835bfefccfee9745f81c052ba68172003dfb,340,0x72010ec7537c87bab3af37ade089c8984d8d654d69af7ebd8bef50824e644e95,0xc67db0df922238979da0fd00d46016e8ae14cecb,0x4a537f61ef574153664c0dbc8c8f4b900cacbe5d,0x5d3caa3f34d4194ca43c364e825d864c0fc17e52,7949,Mavia Land,LAND,0,11,800000,50308156290,266091,1317963,deprecated,799510

@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,tokenID,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,15145630,2022-07-15 06:29:23,0x72786850f00400db1978c66c01ca78783136e92eae3be1b311e26e9f9befa393,82,0x46b506d5dc13a8d4bfc3b8f39adb89051ebd9a365663af89af09469cccdd4cbb,0x6d3478930fb39b55cc4c6afab82b53a8ee87e65d,0xe0176ba60efddb29cac5b15338c9962daee9de0c,0xb5633867c91833a8e20cd49b7f13d9f88f124dd6,3113,PREMINT Collector,PREMINTCOLL,0,152,191202,13848529108,181431,14210522,deprecated,120177

@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,tokenID,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,11096384,2020-10-21 00:56:28,0x6e1ba395368c791d310b6cea2697235a2bd864dfdae8a6128aa3b3d0fcdeccc2,11,0x82911843c10214a3794f1a411d7a30003d7b09850ac9506b0b8b3f1ccdaa94bc,0xaa993da420828f238e1161af282a999e0406a8cd,0xdf82cb8316e9e35706677736a948c61dcd022e49,0x7e85e303d55480c6dd4f82cd84affe07a963da58,18,ZUT HELLSPAWN TIER,ZFT,0,108,2799518,44000000000,2013917,8045143,deprecated,4169764

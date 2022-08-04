@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,tokenID,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,14069614,2022-01-24 17:10:35,0x8bc29bc71a53b2bd222524baa88bdb510bf60eec96771d147fbcb9db522ea5ec,64,0x5c7ea4cb362f33c9d9e2d4af974a237d7187b1285cb76adb098d59789c2caa6b,0xb32b4350c25141e779d392c1dbe857b62b60b4c9,0x56681458e00cafe1206313d2d033946f458fdefd,0x3a86499eb85b8459cfa9e0c71e4cc541dcc22e5c,3947,COOLDOGS,COOLDOGS,0,295,368164,157497658148,268080,20189758,deprecated,1196634

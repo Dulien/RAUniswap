@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,tokenID,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,13794984,2021-12-13 05:37:43,0x326570b5f89aaa460d905c3a8ae1df78ebf9f93799d90c090f8d75387577b4aa,476,0xbef374ab8d62dd1cd2bc0174ae358ce7bc50b45b2a35392afc6963c9db160a1e,0x0000000000000000000000000000000000000000,0x66935172bcc9322bf8ac16c41c8e489d237b8fce,0x3029087fde42070f36e779467d0780b8a587afc6,757,Suga Squad,SQUAD,0,189,177838,45657705938,177838,16956181,deprecated,1471040

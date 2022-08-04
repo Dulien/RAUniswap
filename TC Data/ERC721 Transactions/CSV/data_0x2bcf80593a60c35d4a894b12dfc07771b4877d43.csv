@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,tokenID,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,13687133,2021-11-26 02:27:01,0xb875aa6353cea444ebeb0fcf1f31a58fca9a4ea1d39fd7b052a8f06d99fa3f12,334,0xbfb579cb20ca0e2186eb95b0bbde36f385835ed5f295a3411b628200c48d6b1f,0x0000000000000000000000000000000000000000,0xf9c362cdd6eeba080dd87845e88512aa0a18c615,0x2bcf80593a60c35d4a894b12dfc07771b4877d43,2019,Meta-Legends,ML,0,249,300444,99751898974,200296,19368196,deprecated,1579038

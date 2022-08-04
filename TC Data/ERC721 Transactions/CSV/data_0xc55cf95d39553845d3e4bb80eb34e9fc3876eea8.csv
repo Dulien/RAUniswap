@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,tokenID,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,6664083,2018-11-08 03:51:37,0xc48ac8c1db34de72b1962cf904b5188ddff5873069bc5e5aa2806592c09ce051,4885,0x04d43feeb2c0f2a086ea50bd6fd4050fe0af77b7a2ec76621798f2f2315e162a,0x1120b4798bcaae4ea5fb429c5a280d3e491f7b6a,0xdf5d68d54433661b1e5e90a547237ffb0adf6ec2,0xc55cf95d39553845d3e4bb80eb34e9fc3876eea8,1849,Arcona Digital Land,ARDL,0,88,628973,6200000000,108242,4832942,deprecated,8601672

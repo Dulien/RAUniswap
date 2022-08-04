@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,tokenID,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,13307327,2021-09-27 10:44:42,0xb0619570a173a68f9bd7c72d3df72d6dafefe6f3c5276a8a59a9c99ee8f331c6,52,0x8142c8fd4d69878305e1a067e18f79ed7a0f1e4e8e7fa052905db41b57615b61,0x0000000000000000000000000000000000000000,0xfb7d186e24e128be1f1339fb9c2ba6fdbd87c6f9,0x78341ad82b7a9efadec82ec9c375606ecd0c8a9e,8036,GRILLZ GANG TICKET,GGT,0,317,266743,52328364206,177829,24254102,deprecated,1958774

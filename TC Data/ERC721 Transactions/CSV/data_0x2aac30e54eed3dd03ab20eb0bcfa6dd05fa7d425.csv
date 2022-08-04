@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,tokenID,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,14322404,2022-03-04 19:30:08,0x350c1b4564157a783f901fe0aebf461bf64484647bc111207661fe79008c1e38,97,0x05ce64d28b947b93019f31c3f16e89eea18988ec84a3cace687ef6ae08b0fe99,0xa3a63d9e9be01f0463a0244fd727c87019f61af6,0x9b4c9a312b99c1d582f86e368267ce633812c477,0x2aac30e54eed3dd03ab20eb0bcfa6dd05fa7d425,1,Molecule,MOLNFT,0,203,166171,57545136578,161185,23125020,deprecated,943655

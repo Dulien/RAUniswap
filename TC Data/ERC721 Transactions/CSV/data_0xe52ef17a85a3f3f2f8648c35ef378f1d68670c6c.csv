@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,tokenID,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,13450746,2021-10-19 22:01:37,0x50c9235cfc3405e7ae3b2f3f084fd0a287ab12f483ff54dfc5d1a65dcbfd6b27,137,0x9b95b1c1664674e4bde7ab6f4e5991fb7a1283d1bfab936c9c800bd25e008dd8,0x0000000000000000000000000000000000000000,0x518ba36f1ca6dfe3bb1b098b8dd0444030e79d9f,0xe52ef17a85a3f3f2f8648c35ef378f1d68670c6c,8689,Wonky Stonks,WSTK,0,280,154007,99301857882,154007,25106988,deprecated,1815572

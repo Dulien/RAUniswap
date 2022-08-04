@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,tokenID,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,13386279,2021-10-09 19:01:16,0xbdf9e8230c6004c317a90f7da4d4c9e48c6da558c689ac03e1597d4f51437e52,84,0x7452b6ee96ae9236e00c21198cd967440b8a700e08caedffd721c7bdc6c8287c,0x0000000000000000000000000000000000000000,0x0d3dcc1d43eadc4c9083bbbdd8bce840e4d08f3e,0x5251db5bc34ecf3c01a586ef5de95aa0b38aa1d9,34,GANNFT-Faces,GAN-Faces,0,105,150620,86787111796,150620,11016552,deprecated,1879508

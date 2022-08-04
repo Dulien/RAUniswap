@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,tokenID,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,13466230,2021-10-22 08:00:25,0x612129925838f1f4e210e6b203868582cc3b7957cb5d4abef95e7b81453ce3aa,120,0xb061737ba9eada14675f794578ae695843942c2fdd2618d529209123299e5c0d,0x0000000000000000000000000000000000000000,0xdd70af84ba86f29bf437756b655110d134b5651c,0xc264e06553c109b1321091009dd9ff4c5358b11b,6101,iNFT Personality Pod,POD,0,59,329587,70243883501,248587,7710119,deprecated,1800051

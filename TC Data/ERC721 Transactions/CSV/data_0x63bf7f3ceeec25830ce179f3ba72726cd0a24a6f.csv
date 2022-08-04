@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,tokenID,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,12180974,2021-04-05 17:22:08,0x1bfa0b0cc06ba8b24a7694aab49935b134970aa6ab4fec33c66da1896248c74c,48,0xc2035eb80a263366b63330f0dfb20e82ee5f6057660b78d69ded6b5639a417a9,0x0000000000000000000000000000000000000000,0xb36a5f0bdec9c474e7eb6ab36a9ed20736205789,0x63bf7f3ceeec25830ce179f3ba72726cd0a24a6f,559,Opensea Traders NFT,OSTNFT,0,165,252603,181000000000,168402,11976443,deprecated,3085265

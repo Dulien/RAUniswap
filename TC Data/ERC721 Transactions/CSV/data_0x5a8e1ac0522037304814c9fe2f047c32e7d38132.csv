@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,tokenID,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,13460020,2021-10-21 08:49:39,0x13f8cdbbc3238435ee67f28feed3f136062e4985aa51c7144b698620eeeaa0f1,424,0x93b6dae6a973f8a36c58a3c3d5ad48e5057dc3dd8424f5908d1d8502f9aeb5b2,0xeeca67b79ce17dc9be9fabbc9ae683bb9241bec1,0x333700c270b669e6c9c559d2d3de8c56c984228a,0x5a8e1ac0522037304814c9fe2f047c32e7d38132,5122,Citadel Of The Machines,COTM,0,189,311197,66119860680,224841,21531902,deprecated,1805809

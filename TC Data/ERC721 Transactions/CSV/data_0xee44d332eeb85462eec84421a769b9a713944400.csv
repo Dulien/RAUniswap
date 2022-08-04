@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,tokenID,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,11399164,2020-12-06 12:26:36,0x3fb60546286903049c10856a5cb077926f90106e91aed08a91488c3cf19cdcb1,94,0x2ea2f9ef934f27fe2552157b7e13060c321dc40e3c61b372a5f8173df2eefe31,0x0000000000000000000000000000000000000000,0x03e3fbc3820c1d1487cd7b275cc32c226caf5d18,0xee44d332eeb85462eec84421a769b9a713944400,15415,DFI NFTs,DFI,0,101,240790,17000000000,160527,4499905,deprecated,3866979

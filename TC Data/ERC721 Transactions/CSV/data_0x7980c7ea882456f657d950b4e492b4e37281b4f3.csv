@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,tokenID,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,12195996,2021-04-08 00:35:36,0xab276dd7f8445071fee3d5b2961ef68f133d0577f4c45b8443e0462726fb003c,167,0x6181b1a1a5c6adc5ca5e813a68d18f737b125397a02ae1eb47b1a8132719a4c2,0x0000000000000000000000000000000000000000,0x2ceb85a2402c94305526ab108e7597a102d6c175,0x7980c7ea882456f657d950b4e492b4e37281b4f3,89,Teller NFT,TNFT,0,177,261820,105000000000,172045,10757056,deprecated,3069732

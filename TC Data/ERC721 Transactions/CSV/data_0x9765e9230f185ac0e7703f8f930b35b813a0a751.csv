@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,tokenID,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,11329268,2020-11-25 18:58:44,0x96d5e36b41b898faea2f1f339aa122761e9785118b280c3bb07b450bacc3205f,620,0x60de5aeb36c536a0731c5555e99b9f446da95a2768ec4a846e535ffb29713ad8,0x0000000000000000000000000000000000000000,0x10a7ecf97c46e3229fe1b801a5943153762e0cf0,0x9765e9230f185ac0e7703f8f930b35b813a0a751,1071,NFTegg Series #1,NFTeGG,0,21,300000,24000001459,195604,1406114,deprecated,3936787

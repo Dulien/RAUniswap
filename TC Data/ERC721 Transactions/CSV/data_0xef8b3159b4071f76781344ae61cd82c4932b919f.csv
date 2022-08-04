@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,tokenID,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,13963251,2022-01-08 06:48:21,0x5e7e365e32919fdd30a67ffa42263266767073de1d57b2cfe8e0a2a47ff05287,34,0x5954d43af01ddc02245f89fffa6cfd9eea2fc28d50f2a8d9e5d357ed30f9f162,0x0000000000000000000000000000000000000000,0x0406db8351aa6839169bb363f63c2c808fee8f99,0xef8b3159b4071f76781344ae61cd82c4932b919f,973,Cobo 4th Anniversary NFT,C4A,0,42,4959777,88842385544,4508889,7979229,deprecated,1302962

@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,tokenID,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,13140910,2021-09-01 16:46:01,0xbc2cc171d4b40dc96efe43cb4afb7b422314c48c01aa7a3912c34c42e0542bab,42,0x408ecad0f47b256509fb80df269b9c4623b69a5608ca1c7b04f0583f15bffe26,0x0000000000000000000000000000000000000000,0x77aa555c8a518b56a1ed57b7b4b85ee2ad479d06,0x56c70fe90ea38043b55a67a7ffd81f7309155e5c,7325,Afro Droids,AD,0,48,203928,219046045605,156868,3858372,deprecated,2125124

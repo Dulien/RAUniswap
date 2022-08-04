@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,tokenID,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,13846653,2021-12-21 05:22:39,0x24fc1e2966e332b49a0fe8df7f5f22a3359a6d45209b607939b4f5ea04de399c,75,0x57bf1b41344548548a553b3402a3dfe775dcd95bc1f357d8f8869146ffc28a71,0x0000000000000000000000000000000000000000,0xabc207502ea88d9bca29b95cd2eee5f0d7936418,0xb6c1e5e13276638cb37bed89189a2528543791d2,18052,Yield Guild Badge,YGG BADGE,0,112,277467,55185245139,184978,9861068,deprecated,1419733

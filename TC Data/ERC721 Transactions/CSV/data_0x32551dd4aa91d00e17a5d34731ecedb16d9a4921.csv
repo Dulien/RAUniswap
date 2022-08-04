@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,tokenID,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,13063040,2021-08-20 15:59:31,0xf1e66aed3715b97eaa7b5cf7cb78ad818f5bc668c2397957869f27b1935e0e38,518,0xd2393487488d90f83d78be7e799eff3be6616784764bfb72841db7de6fafd64f,0x0000000000000000000000000000000000000000,0x8460bb8eb1251a923a31486af9567e500fc2f43f,0x32551dd4aa91d00e17a5d34731ecedb16d9a4921,2169,The Lost Glitches,GLITCH,0,92,152424,56404590052,152424,7162180,deprecated,2203223

@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,tokenID,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,14879337,2022-05-31 14:59:41,0xc163de080a95d778818fcda6c6250a32afe01a8d539a31f6017625b3e7623e40,230,0x6f9533220a985cbfda4986329ade6891a3f4abd9b91818cbfb0134dca5d7502a,0x0000000000000000000000000000000000000000,0x932261f9fc8da46c4a22e31b45c4de60623848bf,0xf9f1aedaa4d4009331881b125631dc680577adf6,31522,Zerion DNA 1.0,DNA,0,215,100000,80941488733,75619,24423086,deprecated,386618

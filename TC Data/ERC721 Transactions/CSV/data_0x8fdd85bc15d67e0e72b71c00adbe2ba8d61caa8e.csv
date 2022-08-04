@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,tokenID,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,13596962,2021-11-11 20:11:26,0x67f38ff969b2fcc2e3d7998c883e6496c239a42f5328a59d4b5c16b3a07f4290,252,0xf42ce87877929beeb85d3c4bc5ea5529c12eb6231e620a851106477ba0024fdd,0x0000000000000000000000000000000000000000,0x40670a9c09d61d1aeb7ae4d8f675d54a47ec7a98,0x8fdd85bc15d67e0e72b71c00adbe2ba8d61caa8e,358,Partisia,PARTISIA,0,155,203253,245535334629,135502,10316639,deprecated,1669195

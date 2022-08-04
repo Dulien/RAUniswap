@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,tokenID,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,11619915,2021-01-09 09:58:33,0x0b63f4d51634aaa8f5340ad5423075de8dfc85c35eb9c8f18112e39e32fb03fd,26,0xda465571db7fb1fa3f4801160daea7f2eac8d75ea290b12bc07461be045063be,0x0000000000000000000000000000000000000000,0xb372a7084bd77bc31cf72de28d1b08c69a0c0528,0x5d3897af881dc598a30faefaf3e98037b7e150c1,78,Cyberpunk1980s NFT,CPBN,0,125,195126,50000000000,185126,8447505,deprecated,3646043

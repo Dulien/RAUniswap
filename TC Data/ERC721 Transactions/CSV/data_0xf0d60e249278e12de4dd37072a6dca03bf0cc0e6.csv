@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,tokenID,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,11714700,2021-01-23 23:00:11,0x1e7cbe3e8d6c250f80459e79ab88d415a389f268d4334a118e0b61fe88c60cb8,54,0x547d849a22ab2372675cc6c0deb75bbc62b261b2d5fb8eabc5e14efe055ea1d5,0xb1690c08e213a35ed9bab7b318de14420fb57d8c,0x06012c8cf97bead5deae237070f9587f8e7a266d,0xf0d60e249278e12de4dd37072a6dca03bf0cc0e6,1505228,CryptoKitties,CK,0,177,153966,56000000000,64344,11305524,deprecated,3551041

@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,tokenID,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,10915041,2020-09-22 22:46:31,0xc437e30ed6e9fece0f3e9707fe2b97f6bba26ac9ebb9be036e2434e8f699d1f0,29,0x8c7aea128b33ad91cd2cf98f9885800f0d71d1220fac53bef4d229107ba2127d,0x0000000000000000000000000000000000000000,0xde544e54a330abd1ea8a0e6693d46bfe95d9a684,0x9f39910ba8ec427f2ebcbbe46d0b83c4ae9084fd,2470,Niftymoji,MOJI,0,19,210000,115000000000,129886,1710066,deprecated,4351365

@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,tokenID,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,13683183,2021-11-25 11:29:37,0x05f3883631e840cbcd135affc9453b5eb0cd2b3a42ccc7137439688b60de31c7,211,0x637194958e430321a5d5165cc0bc6be9bd8ddbb3328355fb2614bbb7e8402f2e,0x0000000000000000000000000000000000000000,0xb2d4f230298cf68164f6c5dd994068cbb4c3d335,0x3471532bba810e477a8cc314e929d92d668a2474,218,Alkimi NFTs,Alkimi NFTs,0,168,180471,94102577680,180471,18035496,deprecated,1582756

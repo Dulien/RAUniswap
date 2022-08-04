@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,tokenID,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,13266840,2021-09-21 04:04:50,0xaf45d016b000d0188ec573d75ca6fb697ab4d4224e0fdf410673e1d5e8c39322,534,0x809d22bff485db0ed4e197f4ef0f20bea6a0b876b13218b1d189eb1c2f1aa1ca,0x83c0b0c05d9f7f477e66d621256f9d66fe99472d,0x548c407d35cdd3c812458d9ef6d135963f9f7ece,0x479ffe7b010812c398b8047c7be1166c5626359d,5531,Video Game Dev Squad,VGDS,0,229,110107,60776497495,100507,21847733,deprecated,1999115

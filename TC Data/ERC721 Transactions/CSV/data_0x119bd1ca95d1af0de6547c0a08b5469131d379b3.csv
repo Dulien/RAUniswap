@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,tokenID,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,11166363,2020-10-31 18:43:06,0xf475fc4644c50bca1275cc7d489c048b66f669d10d1c0722aeff2573701c1a6a,59,0x07ae3f686f187541a7415617123f1478cc22d448058db96fa80002b9c79084e1,0x64e5624790084f8fb0e0cdf3e400828f2b68eae3,0x4f4d9978f0c4488e037ed72cfda93eec0f7d281e,0x119bd1ca95d1af0de6547c0a08b5469131d379b3,3,KryptoVlada,KRVL,0,126,654994,40000000000,504994,7256403,deprecated,4100053

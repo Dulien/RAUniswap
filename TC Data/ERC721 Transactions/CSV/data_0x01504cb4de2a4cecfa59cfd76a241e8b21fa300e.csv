@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,tokenID,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,14121031,2022-02-01 15:54:23,0xeca49b63e34d35ed2993ee7eda7c89031cf13f5d00731b62dad1a57cb69a7c6d,36,0x402d21d444c0b80696677c89aec9dc18c607f11b6cebbf09509892bfb29977a6,0x0000000000000000000000000000000000000000,0xf0d2d631a24db247f5eb0421fa3e6a169c72565f,0x01504cb4de2a4cecfa59cfd76a241e8b21fa300e,399,Hedgies by dYdX,HEDGIES,0,344,1000000,93828071376,182944,25070368,deprecated,1145037

@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,tokenID,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,13447132,2021-10-19 08:30:52,0x79154fc38fed1d7f2f9e705ec85398aeb0399a08d4647df6cfe6624908c583df,141,0xaab144fde5382cb29e7fa7e420fd1cbda35afd79d22c4d3d17266388e0a80c5f,0x0000000000000000000000000000000000000000,0x9c6134f9e759c6812aac102fc1a9f7ca5615fd33,0x4e7e3296b3c1f74deac7a07f0707decce1fae14d,2,Deri Position Token,DPT,0,269,582731,44344935650,175195,17783418,deprecated,1818664

@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,tokenID,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,13059493,2021-08-20 02:33:37,0x63a63db5525039edb77bfd330bac06451159cb1fa3eff03cc7f441d6ce49cb1d,226,0xf068eff96896b2c148a4583d55b20897276fe7194a87bbe7fcda7dc889d3634c,0x0000000000000000000000000000000000000000,0x3aff7b16489fcc59483de44e96bd9ec533915924,0xcca54f7fabead133a88c4c1c909aa9f26e430a4b,159,BiFi Position,POSITION,0,320,2849134,29927719235,1766056,27644745,deprecated,2206271

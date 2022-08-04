@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,tokenID,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,14920654,2022-06-07 11:50:37,0xc05bdc1ad99c9d49e4d61e20fe38786808e566c3c2766d9d3ac694b0a55ec2de,96,0x79da1b2b10c7e67c46d0fd23374034774d888e78fe06d5cf7657b32dbb6cd682,0x0000000000000000000000000000000000000000,0x4f4bb0720f52a044e29a2f55dd739e6711e972d5,0x12c500a7e918a1b53f48942d9e90cb8ae80e1613,464,MUFFINPETS,MUFFINPETS.XYZ,0,194,108061,36315968296,108061,17500621,deprecated,345410

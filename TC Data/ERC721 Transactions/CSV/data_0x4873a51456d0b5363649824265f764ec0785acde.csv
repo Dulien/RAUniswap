@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,tokenID,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,13971191,2022-01-09 11:49:08,0xef4800f0f2fb593a0615545b362fcad9a0b1065af319afcc7afd5a3cb06046b5,24,0x9d80de4c8a98c24a1be51e7ff9c250cf24444350126666fc54582a04f779ad93,0x04f71a91733f55c82fd29f064b37f7d83b2ee86d,0x4affb1bcfe20e538f35153c19db7ae9c3751a199,0x4873a51456d0b5363649824265f764ec0785acde,615,Cool Kidz Club,CKC,0,79,314430,90000000000,227438,8460019,deprecated,1294815

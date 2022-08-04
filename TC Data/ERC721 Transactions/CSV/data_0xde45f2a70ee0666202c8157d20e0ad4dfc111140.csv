@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,tokenID,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,14492722,2022-03-31 07:58:29,0x9e624e81f6f8a577cae63cad6752e34ef960f27e7e4f106db33abb04d3ecc244,47,0xeb1b1c96f8aef3e65c80dd01cb32dd8f0317b2f09aa8d0e4af7d656a65940d84,0x0000000000000000000000000000000000000000,0xbe223020724cc3e2999f5dceda3120484fdbfef7,0xde45f2a70ee0666202c8157d20e0ad4dfc111140,3993,GURU Season Pass NFT,SeasonPass,0,32,183088,36569219563,183088,2397563,deprecated,773388

@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,tokenID,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,13207934,2021-09-12 01:24:45,0xa7f6594d3bb4621864c22d417fee05bcc4471c59a7997f3d653a05a428a968f9,49,0x345dd03b02b4435bab1bc7924d8489a64f1db6113fa6624c736274b8008c5b20,0x0000000000000000000000000000000000000000,0xa9cb55d05d3351dcd02dd5dc4614e764ce3e1d6e,0x57408084e698215aab95f4cfb3f41f87b0d10a51,7639,WeMint Washington,WASHINGTON,0,119,285000,36084493152,113356,10227536,deprecated,2058072

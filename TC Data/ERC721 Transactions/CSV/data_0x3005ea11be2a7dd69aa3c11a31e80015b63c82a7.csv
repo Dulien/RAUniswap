@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,tokenID,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,14990898,2022-06-19 12:57:14,0xec88d1a1e0719b389c2950ad34b941cb15534de7fcbad6d666ebb26340e6ac9f,87,0x03ea33ec32d7b95009218350ca99fd13e5ba322d80fead3e2dafb87fe09af4f2,0x0000000000000000000000000000000000000000,0x1dfd9029d89f87c8c63ed8ef2be1b5393b2348ef,0x3005ea11be2a7dd69aa3c11a31e80015b63c82a7,1668,XDEFI Badges,bXDEFI,0,186,325663,21271632648,261664,11138297,deprecated,275221

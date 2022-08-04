@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,tokenID,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,14247188,2022-02-21 04:00:37,0x392cf1948e9d75c5d231098f0d002ecadb8f06ba47055ab36fa77a3bef057b7f,190,0xa1cf2e6ab6b5c67b8314e70d06e4c72ea5fd6fb702094ded60e0fa715365f573,0x0000000000000000000000000000000000000000,0x31c1fb9901dc6ef9c6cacd49c3bcd79fe2486e6c,0x6f7ab1ac6be903b96c342177ee3609d0a47bfd0b,1801,Bulls.Inc,BINC,0,150,203085,68361115422,188097,6753402,deprecated,1019221

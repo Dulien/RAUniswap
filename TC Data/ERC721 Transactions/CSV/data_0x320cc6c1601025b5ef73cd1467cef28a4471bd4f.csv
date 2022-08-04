@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,tokenID,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,11292295,2020-11-20 02:34:36,0x180709b48faff7084ad53f05da92daf988211268a98d07de69aa4aca75b320d3,27,0x2f9a8599de84294d893799fa665172c12dc7cc4975d254ff2a030411f379c7d4,0x0000000000000000000000000000000000000000,0xe072aa2b0d39587a08813391e84495971a098084,0x320cc6c1601025b5ef73cd1467cef28a4471bd4f,657,DISTXR Tokens,DISTXR,0,145,382050,54000000000,254700,11929798,deprecated,3973629

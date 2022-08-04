@@ -1,0 +1,2 @@
+,blockNumber,timeStamp,hash,nonce,blockHash,from,contractAddress,to,tokenID,tokenName,tokenSymbol,tokenDecimal,transactionIndex,gas,gasPrice,gasUsed,cumulativeGasUsed,input,confirmations
+0,14373429,2022-03-12 18:05:20,0xc10021d1f6c3328ae31a27bc6c1a8c5621f4f9950a0e67b9a730fa6e7a3996f1,216,0xc50650a11698fe56f9f4cfc40d86e2454fd1b58832c385de574ac0c3419eea95,0x0000000000000000000000000000000000000000,0x91d48fa937594852845aa078500944536f66963e,0xa24b04b313f748cfba45e2c78fd507eb85deb17e,345,BerehyniaNFT,BRHN,0,27,175134,30686363718,175134,3362462,deprecated,892593
