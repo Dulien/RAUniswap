@@ -17,7 +17,11 @@ def run_query(query):  # A simple function to use requests.post to make the API 
 
 
 i=0
-API_KEYS = ["BQYN8KmMj3B85iEqSkogmRGudfHualuK",
+API_KEYS = ["BQYYNRfeZezAQmsDCgRC39FSG6Xp0X8s",
+            "BQY8yNd2SUvELHWt9HnLDzU4BeFWBNZo",
+            "BQYjJEx8B91DlMi67Is1HDDUe958u6P2",
+            "BQYec3BU4fnZ4fjIqrhb6OVyTxqN5koR",
+            "BQYN8KmMj3B85iEqSkogmRGudfHualuK",
             "BQYJalF13QYIOaFWIeriDL2xVnY04CoW",
             "BQYdEOjWZGGA4SQ6KbJz6Ynbx3aJeNlz",
             "BQYLGB9TxYGVoYrdU47EMpGTfZbzzVVt",
@@ -30,33 +34,41 @@ API_KEYS = ["BQYN8KmMj3B85iEqSkogmRGudfHualuK",
             "BQYxUirM6OwEGvpRPjk4Ox0pQbsEcBxV",
             "BQYemLlIwxkUSyTzL5IThoFajzn6xJp7",
             "BQYec3BU4fnZ4fjIqrhb6OVyTxqN5koR",
-           "BQYl61hRj3UI9vDqGEw0nGrsqpWR99yM",
-           "BQYuS9PuzC1rvS1qzsN6s92zwLWaUbwm",
-           "BQYCInDdczBkSaF4tmY1CfGRzjRgCx9n",
-           "BQY2YKDekdMOghBauFdXDnE5zkbJ8TlM",
-           "BQYmfFjcsrmvvgnKnlT4r1O8YnxZ5TA1"]
+            "BQYl61hRj3UI9vDqGEw0nGrsqpWR99yM",
+            "BQYuS9PuzC1rvS1qzsN6s92zwLWaUbwm",
+            "BQYCInDdczBkSaF4tmY1CfGRzjRgCx9n",
+            "BQY2YKDekdMOghBauFdXDnE5zkbJ8TlM",
+            "BQYmfFjcsrmvvgnKnlT4r1O8YnxZ5TA1"]
 API_KEY = API_KEYS.pop()
 data = []
 
 with open('26K.csv', 'r') as file:
     reader = csv.reader(file)
     for address in reader:
-        
-        #if (i%500)==0:
-            #print("Saving...")
-            #df = pd.DataFrame(data)
-            #df.to_csv("out.csv", encoding='utf-8', index=False)
-            #time.sleep(5)
             
         query = """
         {{
-          ethereum {{
-            address(address: {{is: "{user}"}}) {{
-              balances(currency: {{is: "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2"}}, date: {{since: "2020-09-17" till: "2020-11-30"}}) {{
-                history {{
-                  value
-                  timestamp
-                }}
+          ethereum(network: ethereum) {{
+            transfers(
+              date: {{since: "2020-08-25" till: "2020-11-30"}}
+              currency: {{is: "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2"}}
+              sender: {{is: "{user}"}}
+              options: {{asc: "date.date"}}
+            ) {{
+              sender {{
+                address
+              }}
+              receiver {{
+                address
+              }}
+              amount
+              amount_usd: amount(in: USD)
+              currency {{
+                symbol
+                address
+              }}
+              date {{
+                date
               }}
             }}
           }}
@@ -67,17 +79,15 @@ with open('26K.csv', 'r') as file:
         except:
             print("Crashed...")
             df = pd.DataFrame(data)
-            df.to_csv("out2.csv", encoding='utf-8', index=False) #replace with list
+            df.to_csv("out.csv", encoding='utf-8', index=False) #replace with list
             time.sleep(10)
             API_KEY = API_KEYS.pop()
             result = run_query(query)
+            
         try:
-            result = result['data']['ethereum']['address'][0]['balances'][0]['history']
-            df = pd.DataFrame(result)
-            df["address"] = address[0]
-            max_index = df["value"].idxmax()
-            row = df.iloc[max_index]
-            data.append(row)
+            result = result['data']['ethereum']['transfers']
+            for transfers in result:
+                data.append(transfers)
         except:
             print("File skipped")
         
@@ -85,4 +95,4 @@ with open('26K.csv', 'r') as file:
         #i=i+1
         
 df = pd.DataFrame(data)
-df.to_csv("out2.csv", encoding='utf-8', index=False)
+df.to_csv("out.csv", encoding='utf-8', index=False)
